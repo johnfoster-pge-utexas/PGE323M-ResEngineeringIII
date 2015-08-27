@@ -58,14 +58,14 @@ Office hours: TBD
 
 1. Ertekin, Turgay, Jamal H. Abou-Kassem and Gregory R. King, *Basic Applied Reservoir Simulation,* Henry L. Doherty Memorial Fund of AIME, Society of Petroleum Engineers, Richardson, TX 2001.
 
-1. Smith, G. D., *Numerical Solution of Partial Differential Equations, Clarendon Press* (1978).\
+1. Smith, G. D., *Numerical Solution of Partial Differential Equations, Clarendon Press* (1978).
 
 1. Ertekin, T and Adewumi, M.A., *Reservoir Simulation*, IHRDC, Boston, MA (1995).
 
 
 **Grading**
 
- * 25% Test #1 (Wed, Nov 04, 6 -8 PM UTC 2.102A)
+ * 25% Test #1 (Wed, Nov 4, 6-8 PM UTC 2.102A)
 
  * 30% Final Exam, TBD
 
