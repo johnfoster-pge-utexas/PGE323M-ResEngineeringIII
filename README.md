@@ -1,1 +1,1 @@
-This is the source code repository for the PGE 383 -- Advanced Geomechanics course website.
+This is the source code repository for the PGE 323M -- Reservoir Engineering III course website.
