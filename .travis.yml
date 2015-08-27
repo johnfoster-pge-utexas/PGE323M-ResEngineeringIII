@@ -17,4 +17,4 @@ after_success:
     - git add -A
     - git commit -m "Travis CI autocommit from travis build $TRAVIS_BUILD_NUMBER"
     - git push -fq origin gh-pages > /dev/null
-    - git push -fq https://${GH_TOKEN}@github.com/johntfoster/PGE323-ResEngineeringIII gh-pages
+    - git push -fq https://${GH_TOKEN}@github.com/johntfoster/PGE323M-ResEngineeringIII gh-pages
