@@ -8,6 +8,14 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, 
 and any other reference material.
 
+### 10/01/2015
+
+[Lecture Notes](/notes/10-01-2015.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbI77D6xGhaCZJF1-kw_OxAE">Lecture Recording</a>
+
+<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE323M-ResEngineeringIII/blob/master/files/Live_Coded_Example7.ipynb" target="blank_">Live Coded Example 7</a>
+
 
 ### 09/24/2015
 
