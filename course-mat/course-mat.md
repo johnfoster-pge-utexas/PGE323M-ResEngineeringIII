@@ -15,7 +15,7 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKuWmKv8_Z-vv6JRnl_lSoQ">Lecture Recording</a>
 
-[Link to interactive HW4 Python files](http://mybinder.org/repo/johntfoster/PGE383-HW4)
+<a href="//mybinder.org/repo/johntfoster/PGE383-HW4" target="blank_">Link to interactive HW4 Python files</a>
 
 
 ### 10/19/2015
