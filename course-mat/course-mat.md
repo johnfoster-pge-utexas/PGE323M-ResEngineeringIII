@@ -9,6 +9,15 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 10/20/2015
+
+[Lecture Notes](/notes/10-20-2015.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKuWmKv8_Z-vv6JRnl_lSoQ">Lecture Recording</a>
+
+[Link to interactive HW4 Python files](http://mybinder.org/repo/johntfoster/PGE383-HW4)
+
+
 ### 10/19/2015
 
 [Lecture Notes](/notes/10-19-2015.pdf)
