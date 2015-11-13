@@ -9,6 +9,13 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 11/12/2015
+
+[Lecture Notes](/notes/11-12-2015-notes.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIBDTuvUJss1BeWYx7-psRo">Lecture Recording</a>
+
+
 ### 11/03/2015
 
 [Lecture Notes](/notes/11-03-2015-notes.pdf)
