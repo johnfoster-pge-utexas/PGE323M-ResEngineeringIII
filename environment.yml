@@ -1,6 +1,6 @@
 name: PGE323
 dependencies:
-- openssl=1.0.2h=2
+- openssl
 - pip=8.1.2=py35_0
 - python=3.5.2=0
 - readline=6.2=2
@@ -32,7 +32,6 @@ dependencies:
   - jupyter-core==4.1.1
   - logbook==1.0.0
   - lxml==3.6.4
-  - macfsevents==0.7
   - mako==1.0.4
   - markdown==2.6.6
   - markupsafe==0.23
