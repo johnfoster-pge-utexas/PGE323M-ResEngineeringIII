@@ -24,7 +24,6 @@ compiler:
   - gcc
 script: 
   - nikola install_theme bootstrap3-jinja
-  - nikola install_theme ipython
   - nikola build
 after_success: 
     # Get to the Travis build directory, configure git and clone the repo
