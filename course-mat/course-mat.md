@@ -15,7 +15,7 @@ and any other reference material.
 
 [Lecture Slides](/notes/09-01-2015-slides.pdf)
 
-<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIv4ThEzISn8xI-zwrIZux0">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIv4ThEzISn8xI-zwrIZux0" target="blank_">Lecture Recording</a>
 
 
 <!--
@@ -126,7 +126,7 @@ and any other reference material.
 
 [Lecture Notes](/notes/08-27-2015.pdf)
 
-<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJbBy-GuVS0dgcfoRU_l9R4">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJbBy-GuVS0dgcfoRU_l9R4" target="blank_">Lecture Recording</a>
 
 -->
 
