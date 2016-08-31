@@ -12,7 +12,7 @@
 **Instructor:** John T. Foster, Ph.D.  
 **Office:** PGE 3.108  
 **Phone:** 512-471-6972  
-**Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.com)  
+**Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.edu)  
 
 **Class Location:** CPE 2.204 (Unique #19065) or CPE 2.210 (Unique #19065)   
 **Class Time:** MWF 9:00 - 10:00 AM (Unique #19065) or 2:00 - 3:00 PM (Unique #19065)  

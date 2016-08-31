@@ -9,6 +9,13 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 08/29/2016
+
+[Lecture Notes](/notes/08-29-2016.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkp1Y02qeDYuCrQWJJ2lS6" target="blank_">Lecture Recording</a>
+
+
 ### 08/26/2016
 
 [Lecture Notes](/notes/09-01-2015-notes.pdf)
@@ -16,6 +23,11 @@ and any other reference material.
 [Lecture Slides](/notes/09-01-2015-slides.pdf)
 
 <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIv4ThEzISn8xI-zwrIZux0" target="blank_">Lecture Recording</a>
+
+
+### 08/24/2016
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKSLk9vb9Pl7npOZGS0Tqhc" target="blank_">Lecture Recording</a>
 
 
 <!--
