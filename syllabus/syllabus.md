@@ -21,8 +21,8 @@
 **Teaching Assistants**:  
 TA #1: Lucas Mejia   
 Email: lmkerguelen AT gmail.com   
-Office Location: TBD  
-Office hours: TBD  
+Office Location: CPE 4.182
+Office hours: W 10:00-12:00 AM in Caudle Center
 
 TA #2: Pooneh Hosseininoosheri  
 Email: poonehhosseini AT utexas.edu  
@@ -105,7 +105,7 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |8/31| Ch 2. Finite Differencing | |
 |9/2| Ch 3. Explicit and Implicit Method |  |
 |9/2| Ch 3. *Image Nechelik Reservoir for CMG* |  |
-|9/5| *NO CLASS: Labor Day* | |
+|9/5| **NO CLASS: Labor Day** | |
 |9/7| Ch 3. Explicit and Implicit Method | Homework #1 |
 |9/8| Ch 3. *Coding Video Example* |  | 
 |9/12| Ch 3. Implicit Method and Transmiss | |
