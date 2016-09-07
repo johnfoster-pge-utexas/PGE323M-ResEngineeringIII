@@ -21,7 +21,7 @@
 **Teaching Assistants**:  
 TA #1: Lucas Mejia   
 Email: lmkerguelen AT gmail.com   
-Office Location: CPE 4.182
+Office Location: CPE 4.182  
 Office hours: W 10:00-12:00 AM in Caudle Center
 
 TA #2: Pooneh Hosseininoosheri  
