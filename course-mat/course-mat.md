@@ -26,7 +26,7 @@ and any other reference material.
 [Lecture Notes](/notes/09-09-2016.pdf)
 
 <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkp1Y02qeDYuCrQWJJ2lS6" target="blank_">Lecture Recording</a>
-j
+
 
 ### 09/07/2016
 
@@ -39,7 +39,7 @@ j
 
 [Lecture Notes](/notes/09-02-2016.pdf)
 
-<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkp1Y02qeDYuCrQWJJ2lS6" target="blank_">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkVVAA2hkWiWMMNg2Qm_p1" target="blank_">Lecture Recording</a>
 
 
 ### 08/29/2016
