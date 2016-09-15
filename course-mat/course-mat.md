@@ -9,6 +9,39 @@ each scheduled lecture period.  This may include PDFs of the final lecture notes
 and any other reference material.
 
 
+### 09/14/2016
+
+<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE323M-ResEngineeringIII/blob/master/files/Live_Coded_Example7.ipynb" target="blank_">Live Coded Example 7</a>
+
+
+### 09/12/2016
+
+[Lecture Notes](/notes/09-12-2016.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkp1Y02qeDYuCrQWJJ2lS6" target="blank_">Lecture Recording</a>
+
+
+### 09/09/2016
+
+[Lecture Notes](/notes/09-09-2016.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkp1Y02qeDYuCrQWJJ2lS6" target="blank_">Lecture Recording</a>
+j
+
+### 09/07/2016
+
+[Lecture Notes](/notes/09-07-2016.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkp1Y02qeDYuCrQWJJ2lS6" target="blank_">Lecture Recording</a>
+
+
+### 09/02/2016
+
+[Lecture Notes](/notes/09-02-2016.pdf)
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkp1Y02qeDYuCrQWJJ2lS6" target="blank_">Lecture Recording</a>
+
+
 ### 08/29/2016
 
 [Lecture Notes](/notes/08-29-2016.pdf)
