@@ -32,7 +32,7 @@ and any other reference material.
 
 [Lecture Notes](/notes/09-07-2016.pdf)
 
-<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKkp1Y02qeDYuCrQWJJ2lS6" target="blank_">Lecture Recording</a>
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKyI57EtPJPwYlNIITiOv0D" target="blank_">Lecture Recording</a>
 
 
 ### 09/02/2016
