@@ -13,7 +13,7 @@ and any other reference material.
 
 <a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE323M-ResEngineeringIII/blob/master/files/Live_Coded_Example7.ipynb" target="blank_">Live Coded Example 7</a>
 
-<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbL97vDIViTkJgV4IAI6zOV2" target="blank_">Lecture Recording</a>
+<a href="//youtu.be/CWTi11caXdk" target="blank_">Lecture Recording</a>
 
 
 ### 09/12/2016
