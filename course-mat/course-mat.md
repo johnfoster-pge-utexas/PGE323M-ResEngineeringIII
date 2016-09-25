@@ -10,7 +10,7 @@ and any other reference material.
 
 ### 09/23/2016
 
-[Lecture Notes](/notes/09-12-2016.pdf)
+[Lecture Notes](/notes/09-23-2016.pdf)
 
 <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJnnuBuadt-5_47xv-6MYvC" target="blank_">Lecture Recording</a>
 
