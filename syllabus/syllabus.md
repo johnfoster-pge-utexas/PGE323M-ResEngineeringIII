@@ -121,11 +121,12 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |10/5| Ch 6. *Coding review and tips* | |
 |10/7| Ch 7. Multiphase Flow | |
 |10/10| Ch 7. Multiphase Flow |  |
-|11/12| Ch 7. Multiphase Flow | |
-|10/17| Ch 6. *Coding Project in CMG!* |  Project #1a |
+|10/12| Ch 7. Multiphase Flow | |
+|10/14| Ch 7. Multiphase Flow | Project #1a |
+|10/17| Ch 6. *Coding Project in CMG!* |   |
 |10/19| Ch 6. *Coding Project in CMG!* |   |
-|10/21| Ch 6. *Coding Project in CMG!* |   |
-|11/24| Ch 7. *CMG data preparation* | Project #1b |
+|10/21| Ch 6. *Coding Project in CMG!* |  Project #1b |
+|11/24| Ch 7. *CMG data preparation* |  |
 |11/26| Ch 7. *CMG data preparation* |  |
 |11/31| Ch 8. Test Review | |
 |11/2| Ch 8. IMPES | Test 1 (tentative) |
