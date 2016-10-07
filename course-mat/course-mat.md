@@ -13,6 +13,10 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbLtaXqFqVk8I_dPQObGWGl4" target="blank_">Lecture Recording</a>
 
+### 10/07/2016
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJNuQTkEpekijn4-BYuKdrS" target="blank_">Lecture Recording</a>
+
 
 ### 10/05/2016
 
