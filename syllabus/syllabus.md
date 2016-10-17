@@ -126,9 +126,9 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |10/17| Ch 6. *Coding Project in CMG!* |   |
 |10/19| Ch 6. *Coding Project in CMG!* |   |
 |10/21| Ch 6. *Coding Project in CMG!* |  Project #1b |
-|11/24| Ch 7. *CMG data preparation* |  |
-|11/26| Ch 7. *CMG data preparation* |  |
-|11/31| Ch 8. Test Review | |
+|10/24| Ch 7. *CMG data preparation* |  |
+|10/26| Ch 7. *CMG data preparation* |  |
+|10/31| Ch 8. Test Review | |
 |11/2| Ch 8. IMPES | Test 1 (tentative) |
 |11/4| Ch 8. IMPES | |
 |11/7| Ch 8. IMPES | |
