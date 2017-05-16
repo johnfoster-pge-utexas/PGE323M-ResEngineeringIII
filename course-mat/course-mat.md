@@ -15,7 +15,7 @@ and any other reference material.
 
   * <a href="//youtu.be/-sxu2L_gG3E?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material form of mass conservation</a> ([PDF](/notes/Material_Form_Of_Mass_Conservation.pdf))
 
-  * <a href="//youtu.be/-CxwTcnoDyI?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Mass conservation/a> ([PDF](/notes/Mass_Conservation.pdf))
+  * <a href="//youtu.be/-CxwTcnoDyI?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Mass conservation</a> ([PDF](/notes/Mass_Conservation.pdf))
 
 
 
