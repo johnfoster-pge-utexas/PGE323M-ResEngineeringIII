@@ -1,45 +1,41 @@
 <!--
 .. title: Syllabus
 .. slug: index
-.. date: 2016-08-23 08:40:03 UTC-05:00
+.. date: 2017-08-29 08:00:00 UTC-05:00
 .. template: notitle.tmpl
 .. description: PGE 323M - Reservoir Engineering III syllabus page
 -->
 
-## PGE 334M - Reservoir Engineering III (Unique #19065 and #19070)
+## PGE 334M - Reservoir Engineering III  
 
 
 **Instructor:** John T. Foster, Ph.D.  
 **Office:** PGE 3.108  
 **Phone:** 512-471-6972  
-**Email:** [jfoster@austin.utexas.edu](mailto:jfoster@austin.utexas.edu)  
+**Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 2.204 (Unique #19065) or CPE 2.210 (Unique #19065)   
-**Class Time:** MWF 9:00 - 10:00 AM (Unique #19065) or 2:00 - 3:00 PM (Unique #19065)  
-**Office Hours:** MW 10:00-11:30 and by appointment   
+**Class Location:** CPE LRC  
+**Class Time:** MWF 10:00 - 11:00 AM  
+**Office Hours:** MW 11:00 AM - 12:00 PM and by appointment   
 
 **Teaching Assistants**:  
-TA #1: Lucas Mejia   
-Email: lmkerguelen AT gmail.com   
-Office Location: CPE 4.182  
-Office hours: W 10:00-12:00 AM in Caudle Center
-
-TA #2: Pooneh Hosseininoosheri  
-Email: poonehhosseini AT utexas.edu  
-Office Location: CPE 4.172  
-Office hours: W 3:00-5:00 PM  
+TA #1: Hanyu Li   
+Email: [lihanyu234 AT utexas.com](lihanyu234@utexas.com])   
+Office Location: TBD  
+Office hours: TBD  
 
 
-**Course Website:** [Unique #19065](https://utexas.instructure.com/courses/1178879) or [Unique #19070](https://utexas.instructure.com/courses/1178880)
+
+**Course Website:** [https://utexas.instructure.com/courses/1207029](https://utexas.instructure.com/courses/1207029)
 
 **Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering. 
 
 
 **Prerequisites:** Petroleum and Geosystems Engineering 323L
 
-**Book:** Most of the reservoir simulation textbooks are out-dated and/or are geared towards graduate students. Therefore, I suggest printing out the provided powerpoint notes this semester and using them as a guide. There are several books that would make a good reference which are included below. If you feel the need to buy a book, Dr. Balhoff suggests the one by Chen.
+**Book:** Most of the reservoir simulation textbooks are out-dated and/or are geared towards graduate students. Therefore, I suggest printing out the provided powerpoint notes this semester and using them as a guide. There are several books that would make a good reference which are included below.  
 
-Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may be downloaded from Canvas and used as a reference.
+Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may be downloaded from Canvas and used as a reference.  
 
 **Suggested References:**
 
@@ -66,15 +62,11 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 
 **Grading**
 
- * 25% Test #1, TBD
+ * 20% Lecture Quizes
 
- * 30% Final Exam, TBD
+ * 40% Daily assignments
 
- * 15% Project #1 (Individual)
-
- * 15% Project #2 (Group)
-
- * 15% Homework and Unannounced Quizzes
+ * 40% Projects
 
 
 **Grade Assignment**
@@ -93,56 +85,56 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |< 60| F  |  
 
 
-**Exams:** All exams are closed book and notes unless otherwise stated.
+**Outline:** Below is a general outline of what I intend to cover in the course.  This is subject to change based on the needs and preparation of the students in the class.  Any updates will be posted as they occur.  
 
-**Outline:** Below is a general outline of what I intend to cover in the course.  This is subject to change based on the needs and preparation of the students in the class.  Any updates will be posted as they occur.
 
 | Date | Description | Assignment |
 |-----------------|---------------------|-----------|
-|8/24| Introduction||
-|8/26| Ch 1. Single-Phase Flow Eqns | |
-|8/29| Ch 2. Finite Differencing | |
-|8/31| Ch 2. Finite Differencing | |
-|9/2| Ch 3. Explicit and Implicit Method |  |
-|9/2| Ch 3. *Image Nechelik Reservoir for CMG* |  |
-|9/5| **NO CLASS: Labor Day** | |
-|9/7| Ch 3. Explicit and Implicit Method | Homework #1 |
-|9/8| Ch 3. *Coding Video Example* |  | 
-|9/12| Ch 3. Implicit Method and Transmiss | |
-|9/14| Ch 3. Implicit Method and Transmiss | |
-|9/16| Ch 3. *CMG Tutorial* | Homework #2 |
-|9/19| Ch 4. Crank Nicholson + Control Volume |  |
-|9/21| Ch 4. Crank Nicholson + Control Volume |  |
-|9/23| Ch 4. Heterogeneities | Homework #3
-|9/26| Ch 5. 2D Flow |
-|9/28| Ch 5. 2D Flow |
-|9/30| Ch 5. 2D Flow, wells and well models | Homework #4 |
-|10/3| Ch 6. Wells and Well Models | |
-|10/5| Ch 6. *Coding review and tips* | |
-|10/7| Ch 7. Multiphase Flow | |
-|10/10| Ch 7. Multiphase Flow |  |
-|10/12| Ch 7. Multiphase Flow | |
-|10/14| Ch 7. Multiphase Flow | Project #1a |
-|10/17| Ch 6. *Coding Project in CMG!* |   |
-|10/19| Ch 6. *Coding Project in CMG!* |   |
-|10/21| Ch 6. *Coding Project in CMG!* |  Project #1b |
-|10/24| Ch 7. *CMG data preparation* |  |
-|10/26| Ch 7. *CMG data preparation* |  |
-|10/31| Ch 8. Test Review | |
-|11/2| Ch 8. IMPES | Test 1 (tentative) |
-|11/4| Ch 8. IMPES | |
-|11/7| Ch 8. IMPES | |
-|11/9| Ch 8. *CMG, setting up base case* |  |
-|11/11| Ch 8. *CMG, setting up base case* | Homework #5 |
-|11/14| Ch 8. *CMG*, *CMOST* | |
-|11/16| Ch 8. *CMG*, *CMOST* | |
-|11/21| Ch 8. *CMG*, *STARS* | |
-|11/23| Ch 8. *CMG*, *STARS* | Group Project 2A Due |
-|11/25| **NO CLASS: Thanksgiving** | |
-|11/28| Ch 9. TBD |
-|11/30| Ch 9. TBD |
-|12/02| Ch 9. TBD |
-|12/05| TBD | Group Project 2B Due |  
+|8/30| Introduction||
+|9/1| Software tools used in the course ||
+|9/4| **NO CLASS, Labor Day** ||
+|9/6| Introduction to git and GitHub ||
+|9/8| Introduction to Python and Python functions ||
+|9/11| Python - Data structures ||
+|9/13| Python - Loops and conditional statements ||
+|9/15| Python - Object-oriented programming ||
+|9/18| Python - Numpy ||
+|9/20| Python - Scipy, matplotlib ||
+|9/22| Image Nechelik Reservoir |  |
+|9/25| Single-Phase Flow Eqns | |
+|9/27| Finite Differencing | |
+|9/29| Explicit and Implicit Method |  |
+|10/2| Implicit Method and Transmiss | |
+|10/4| CMG Tutorial | |
+|10/6| Crank Nicholson + Control Volume |  |
+|10/9| Heterogeneities | |
+|10/11| 2D Flow |
+|10/13| 2D Flow |
+|10/16| 2D Flow, wells and well models |  |
+|10/18| Wells and Well Models | |
+|10/20| Multiphase Flow | Project #1a |
+|10/23| Project 1 in CMG |   |
+|10/25| Project 1 in CMG |   |
+|10/27| Project 1 in CMG |  Project #1b |
+|10/30| Multiphase Flow | |
+|11/1|  Multiphase Flow | |
+|11/3| Multiphase Flow | |
+|11/6| Multiphase Flow | |
+|11/8| IMPES | |
+|11/10| IMPES | Project #2a |
+|11/13| Project 2 in CMG |  |
+|11/15| Project 2 in CMG |  |
+|11/17| Project 2 in CMG | Project #2b |
+|11/20| CMG, CMOST | |
+|11/22| CMG, CMOST | |
+|11/24| **NO CLASS: Thanksgiving** | |
+|11/27| Finite volume method | |
+|11/29| Finite volume method | |
+|12/1| Finite volume method | |
+|12/4| Finite element method | |
+|12/6| Finite element method | |
+|12/8| Finite element method | |
+|12/11| Finite element method | Project 3 |  
 
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.

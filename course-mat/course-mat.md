@@ -8,6 +8,7 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, 
 and any other reference material.
 
+<a href="https://youtu.be/R__n0gZ9l9A" target="blank_">Lecture 1 - Introduction to Reservoir Simulation</a>
 
 <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 2 Playlist</a>
  
