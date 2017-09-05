@@ -8,23 +8,30 @@ This page provides a listing, in reverse chronological order, of course material
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, 
 and any other reference material.
 
-<a href="https://youtu.be/R__n0gZ9l9A" target="blank_">Lecture 1 - Introduction to Reservoir Simulation</a>
+<a href="https://youtu.be/R__n0gZ9l9A" target="blank_">Lecture 1 - Introduction to Reservoir Simulation</a> ([HTML](/slides/IntroductionToReservoirSimulation.slides.html)) ([PDF](/slides/IntroductionToReservoirSimulation.pdf))
 
-<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 2 Playlist</a>
+<a href="//youtu.be/0cN1oewU03w" target="blank_">Lecture 2 Playlist</a>
  
-  * <a href="//youtu.be/UItyFF4HcMA?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material time derivative</a> ([PDF](/notes/Material_Time_Derivative.pdf))
+  * <a href="//youtu.be/0cN1oewU03w" target="blank_">Basic Unix Commands - File System Navigation</a> ([HTML](/slides/BasicUnixCommands_FileSystem.slides.html)) ([PDF](/slides/BasicUnixCommands_FileSystem.pdf))
 
-  * <a href="//youtu.be/-sxu2L_gG3E?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material form of mass conservation</a> ([PDF](/notes/Material_Form_Of_Mass_Conservation.pdf))
+  * <a href="//youtu.be/5OLUolv4DaM" target="blank_">git and Github</a> ([HTML](/slides/git_and_Github.slides.html)) ([PDF](/slides/git_and_Github.pdf))
 
-  * <a href="//youtu.be/-CxwTcnoDyI?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Mass conservation</a> ([PDF](/notes/Mass_Conservation.pdf))
 
-<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Lecture 3 Playlist</a>
+<!--<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 2 Playlist</a>-->
  
-  * <a href="//youtu.be/u98GqUywFjk?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Darcy's Law</a> ([PDF](/notes/Darcys_Law.pdf))
+  <!--* <a href="//youtu.be/UItyFF4HcMA?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material time derivative</a> ([PDF](/notes/Material_Time_Derivative.pdf))-->
 
-  * <a href="//youtu.be/9Bnls2kvhKQ?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Pressure Diffusivity Equation</a> ([PDF](/notes/Pressure_Diffusivity_Equation.pdf))
+  <!--* <a href="//youtu.be/-sxu2L_gG3E?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material form of mass conservation</a> ([PDF](/notes/Material_Form_Of_Mass_Conservation.pdf))-->
 
-  * <a href="//youtu.be/0rvynbKVX68?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Pressure Diffusivity Equation Example</a> ([PDF](/notes/Pressure_Diffusivity_Example.pdf))
+  <!--* <a href="//youtu.be/-CxwTcnoDyI?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Mass conservation</a> ([PDF](/notes/Mass_Conservation.pdf))-->
+
+<!--<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Lecture 3 Playlist</a>-->
+ 
+  <!--* <a href="//youtu.be/u98GqUywFjk?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Darcy's Law</a> ([PDF](/notes/Darcys_Law.pdf))-->
+
+  <!--* <a href="//youtu.be/9Bnls2kvhKQ?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Pressure Diffusivity Equation</a> ([PDF](/notes/Pressure_Diffusivity_Equation.pdf))-->
+
+  <!--* <a href="//youtu.be/0rvynbKVX68?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Pressure Diffusivity Equation Example</a> ([PDF](/notes/Pressure_Diffusivity_Example.pdf))-->
 
 
 
