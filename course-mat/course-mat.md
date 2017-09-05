@@ -10,7 +10,7 @@ and any other reference material.
 
 <a href="https://youtu.be/R__n0gZ9l9A" target="blank_">Lecture 1 - Introduction to Reservoir Simulation</a> ([HTML](/slides/IntroductionToReservoirSimulation.slides.html)) ([PDF](/slides/IntroductionToReservoirSimulation.pdf))
 
-<a href="//youtu.be/0cN1oewU03w" target="blank_">Lecture 2 Playlist</a>
+<a href="//youtu.be/0cN1oewU03w " target="blank_">Lecture 2 Playlist</a>
  
   * <a href="//youtu.be/0cN1oewU03w" target="blank_">Basic Unix Commands - File System Navigation</a> ([HTML](/slides/BasicUnixCommands_FileSystem.slides.html)) ([PDF](/slides/BasicUnixCommands_FileSystem.pdf))
 
