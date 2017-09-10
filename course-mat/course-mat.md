@@ -18,6 +18,8 @@ and any other reference material.
 
 <a href="//youtu.be/RlwPBT4Uqhw" target="blank_">Lecture 3 - Jupyter Notebook and Python Functions</a> (<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE323M-ResEngineeringIII/blob/master/files/JupyterNotebook_and_PythonFunctions.ipynb" target="blank_">HTML</a>) ([IPYNB](/files/JupyterNotebook_and_PythonFunctions.ipynb))
 
+<a href="//youtu.be/NyILHJ0JxqY" target="blank_">Lecture 4 - Python Lists, Tuples, and Dictionaries</a> (<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE323M-ResEngineeringIII/blob/master/files/PythonListsTuples_and_Dictonaries.ipynb" target="blank_">HTML</a>) ([IPYNB](/files/PythonListsTuples_and_Dictonaries.ipynb))
+
 
 <!--<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 2 Playlist</a>-->
  
