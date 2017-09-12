@@ -20,6 +20,8 @@ and any other reference material.
 
 <a href="//youtu.be/NyILHJ0JxqY" target="blank_">Lecture 4 - Python Lists, Tuples, and Dictionaries</a> (<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE323M-ResEngineeringIII/blob/master/files/PythonListsTuples_and_Dictionaries.ipynb" target="blank_">HTML</a>) ([IPYNB](/files/PythonListsTuples_and_Dictionaries.ipynb))
 
+<a href="//youtu.be/1wQTyjPtrlY" target="blank_">Lecture 5 - Python Loops and Conditionals</a> (<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE323M-ResEngineeringIII/blob/master/files/PythonLoops_and_Conditionals.ipynb" target="blank_">HTML</a>) ([IPYNB](/files/PythonLoops_and_Conditionals.ipynb))
+
 
 <!--<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 2 Playlist</a>-->
  
