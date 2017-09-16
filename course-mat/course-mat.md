@@ -24,6 +24,8 @@ and any other reference material.
 
 <a href="//youtu.be/sOQ-usIoZuQ" target="blank_">Lecture 6 - Python Classes and Object-Oriented Programming</a> (<a href="//nbviewer.ipython.org/github/johnfoster-pge-utexas/PGE323M-ResEngineeringIII/blob/master/files/PythonClasses_and_ObjectOrientedProgramming.ipynb" target="blank_">HTML</a>) ([IPYNB](/files/PythonClasses_and_ObjectOrientedProgramming.ipynb))
 
+<a href="//youtu.be/GHCZOvjXGto" target="blank_">Lecture 7 - Numpy</a> ([HTML](/slides/Numpy.slides.html)) ([PDF](/slides/Numpy.pdf))
+
 
 <!--<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 2 Playlist</a>-->
  
