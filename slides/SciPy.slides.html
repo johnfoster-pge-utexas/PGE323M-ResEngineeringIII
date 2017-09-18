@@ -9,7 +9,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-<title>Numpy slides</title>
+<title>SciPy slides</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -11860,7 +11860,7 @@ a.anchor-link {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="numpy:-Numerical-Python"><code>numpy</code>: Numerical Python<a class="anchor-link" href="#numpy:-Numerical-Python">&#182;</a></h1>
+<h1 id="SciPy:--Scientific-Toolkit">SciPy:  Scientific Toolkit<a class="anchor-link" href="#SciPy:--Scientific-Toolkit">&#182;</a></h1>
 </div>
 </div>
 </div></section></section><section><section>
@@ -11868,55 +11868,58 @@ a.anchor-link {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="&quot;Duck''-typing-makes-Python-slow">"Duck'' typing makes Python slow<a class="anchor-link" href="#&quot;Duck''-typing-makes-Python-slow">&#182;</a></h1><ul>
-<li><p>Duck Typing</p>
-<ul>
-<li>If it looks like a duck, then it is a duck.</li>
-<li>a.k.a. dynamic typing</li>
-<li>Dynamic typing requires lots of metadata around a variable.</li>
-</ul>
-</li>
+<h1 id="SciPy">SciPy<a class="anchor-link" href="#SciPy">&#182;</a></h1><ul>
+<li>SciPy is a collection of mathematical algorithms and convience functions built on Numpy data structures</li>
+<li>Organized into subpackages covering different scientific computing areas</li>
+<li>A data-processing and prototyping environment rivaling MATLAB</li>
 </ul>
 
 </div>
 </div>
-</div><div class="fragment">
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<ul>
-<li>Solution: <code>numpy</code> data structures<ul>
-<li>Data structures, as objects, that have a single type and continuous storage.</li>
-<li>Common functionality with implementation in C.</li>
-</ul>
-</li>
+<h1 id="SciPy-Submodules">SciPy Submodules<a class="anchor-link" href="#SciPy-Submodules">&#182;</a></h1><ul>
+<li>Special functions (<code>scipy.special</code>) </li>
+<li>Integration (<code>scipy.integrate</code>) </li>
+<li>Optimization (<code>scipy.optimize</code>) </li>
+<li>Interpolation (<code>scipy.interpolate</code>)</li>
+<li>Fourier Transforms (<code>scipy.fftpack</code>) </li>
+<li>Signal Processing (<code>scipy.signal</code>)</li>
+<li>Linear Algebra (<code>scipy.linalg</code>)</li>
+<li>Sparse Eigenvalue Problems with ARPACK Compressed Sparse Graph Routines (<code>scipy.sparse.csgraph</code>)</li>
+<li>Statistics (<code>scipy.stats</code>)</li>
+<li>Multi-dimensional image processing (<code>scipy.ndimage</code>) </li>
+<li>File IO (<code>scipy.io</code>)</li>
+<li>Weave (<code>scipy.weave</code>)</li>
+<li>And more. . .</li>
 </ul>
 
 </div>
 </div>
-</div></div></section></section><section><section>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="How-slow-is-Python?">How slow is Python?<a class="anchor-link" href="#How-slow-is-Python?">&#182;</a></h1><ul>
-<li>Add 1 to a million numbers<ul>
-<li>Use <code>timeit</code></li>
-</ul>
-</li>
-</ul>
-
+<h1 id="Common-submodules:-scipy.integrate">Common submodules: <code>scipy.integrate</code><a class="anchor-link" href="#Common-submodules:-scipy.integrate">&#182;</a></h1><p>Integrate the function:</p>
+$$
+f(x) = \int_{0}^4 x^2 {\rm d}x
+$$
 </div>
 </div>
-</div><div class="fragment">
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input_hidden">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">timeit</span> [i+1 for i in range(1000000)]    
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">scipy.integrate</span>
+<span class="n">ans</span><span class="p">,</span> <span class="n">err</span> <span class="o">=</span> <span class="n">scipy</span><span class="o">.</span><span class="n">integrate</span><span class="o">.</span><span class="n">quad</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span> <span class="o">**</span> <span class="mi">2</span><span class="p">,</span> <span class="mf">0.</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+<span class="n">ans</span>
 </pre></div>
 
 </div>
@@ -11931,27 +11934,48 @@ a.anchor-link {
 
 <div class="output_area">
 
-<div class="prompt"></div>
+<div class="prompt output_prompt">Out[1]:</div>
 
 
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>110 ms ± 13.1 ms per loop (mean ± std. dev. of 7 runs, 10 loops each)
-</pre>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>21.333333333333336</pre>
+</div>
+
+</div>
+
 </div>
 </div>
 
 </div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>See also: <code>dblquad</code>, <code>tplquad</code>, <code>fixed_quad</code>, <code>trapz</code>, <code>simps</code></p>
 
-</div></div><div class="fragment">
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Common-submodules:-scipy.linalg">Common submodules: <code>scipy.linalg</code><a class="anchor-link" href="#Common-submodules:-scipy.linalg">&#182;</a></h1><h3 id="Matrix-Inverse">Matrix Inverse<a class="anchor-link" href="#Matrix-Inverse">&#182;</a></h3>
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input_hidden">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span>
-<span class="o">%</span><span class="k">timeit</span> numpy.arange(1000000) + 1
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">scipy.linalg</span>
+<span class="n">a</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span>
+<span class="n">scipy</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">inv</span><span class="p">(</span><span class="n">a</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -11966,29 +11990,28 @@ a.anchor-link {
 
 <div class="output_area">
 
-<div class="prompt"></div>
+<div class="prompt output_prompt">Out[2]:</div>
 
 
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>1.22 ms ± 121 µs per loop (mean ± std. dev. of 7 runs, 1000 loops each)
-</pre>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>array([[-2.08487186,  1.45570026,  0.97077379],
+       [ 0.88024889,  0.67598413, -0.46646238],
+       [ 2.58825355, -1.83220984,  0.05038305]])</pre>
+</div>
+
+</div>
+
 </div>
 </div>
 
 </div>
-</div>
-
-</div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Universal-functions">Universal functions<a class="anchor-link" href="#Universal-functions">&#182;</a></h1><ul>
-<li>Universal functions are vectorized functions that operate on arrays in an element-by-element fashion.</li>
-<li>Arithmetic operators (<code>+</code>, <code>-</code>, <code>/</code>, <code>*</code>, <code>**</code>) are overloaded to work in an element-by-element fashion.</li>
-</ul>
-<p>Another speed comparison:</p>
-
+<h3 id="Eigenvalues">Eigenvalues<a class="anchor-link" href="#Eigenvalues">&#182;</a></h3>
 </div>
 </div>
 </div>
@@ -11998,8 +12021,7 @@ a.anchor-link {
 <div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">math</span>
-<span class="o">%</span><span class="k">timeit</span> [math.sin(i) ** 2 for i in range(1000000)]
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">scipy</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">eigvals</span><span class="p">(</span><span class="n">a</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -12014,18 +12036,36 @@ a.anchor-link {
 
 <div class="output_area">
 
-<div class="prompt"></div>
+<div class="prompt output_prompt">Out[3]:</div>
 
 
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>322 ms ± 40.7 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
-</pre>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>array([-0.29143056+0.j,  1.35941158+0.j,  0.74781336+0.j])</pre>
+</div>
+
+</div>
+
 </div>
 </div>
 
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Common-submodules:-scipy.interpolate">Common submodules: <code>scipy.interpolate</code><a class="anchor-link" href="#Common-submodules:-scipy.interpolate">&#182;</a></h1>
 </div>
 </div>
-
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Interpolate-a-function">Interpolate a function<a class="anchor-link" href="#Interpolate-a-function">&#182;</a></h3>
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input_hidden">
@@ -12033,78 +12073,11 @@ a.anchor-link {
 <div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span>
-<span class="o">%</span><span class="k">timeit</span> numpy.sin(numpy.arange(1000000)) ** 2
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>25.3 ms ± 2.51 ms per loop (mean ± std. dev. of 7 runs, 10 loops each)
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div></section></section><section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Creating-numpy-arrays">Creating <code>numpy</code> arrays<a class="anchor-link" href="#Creating-numpy-arrays">&#182;</a></h1><p><code>numpy</code> offers several built-in functions for creating arrays</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span>
-<span class="n">x</span> <span class="o">=</span> <span class="n">numpy</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">11</span><span class="p">])</span>
-<span class="n">x</span> <span class="o">=</span> <span class="n">numpy</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">1</span><span class="p">,</span><span class="mf">2.</span><span class="p">],[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">],[</span><span class="mi">1</span><span class="o">+</span><span class="mi">1j</span><span class="p">,</span><span class="mf">2.</span><span class="p">]])</span>
-<span class="n">x</span> <span class="o">=</span> <span class="n">numpy</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="o">-</span><span class="mi">10</span><span class="p">,</span><span class="mi">10</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">float</span><span class="p">)</span>
-<span class="n">x</span> <span class="o">=</span> <span class="n">numpy</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mf">1.</span><span class="p">,</span><span class="mf">4.</span><span class="p">,</span><span class="mi">6</span><span class="p">)</span>
-<span class="n">x</span> <span class="o">=</span> <span class="n">numpy</span><span class="o">.</span><span class="n">indices</span><span class="p">((</span><span class="mi">3</span><span class="p">,</span><span class="mi">3</span><span class="p">))</span>
-<span class="n">x</span> <span class="o">=</span> <span class="n">numpy</span><span class="o">.</span><span class="n">fromfile</span><span class="p">(</span><span class="s1">&#39;foo.dat&#39;</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div></section></section><section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Array-functions">Array functions<a class="anchor-link" href="#Array-functions">&#182;</a></h1><p><code>numpy</code> array functions for slicing, getting info, etc.</p>
-
-</div>
-</div>
-</div><div class="fragment">
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
-<div class="inner_cell">
-    <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">9</span><span class="p">)</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span>
-<span class="n">x</span>
+<span class="kn">from</span> <span class="nn">scipy</span> <span class="k">import</span> <span class="n">interpolate</span><span class="p">,</span> <span class="n">integrate</span>
+<span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span><span class="mi">11</span><span class="p">)</span>
+<span class="n">y</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">exp</span><span class="p">(</span><span class="o">-</span><span class="n">x</span><span class="o">/</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">f</span> <span class="o">=</span> <span class="n">interpolate</span><span class="o">.</span><span class="n">interp1d</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -12113,28 +12086,14 @@ a.anchor-link {
 
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[5]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>array([[0, 1, 2],
-       [3, 4, 5],
-       [6, 7, 8]])</pre>
 </div>
-
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
-
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Integrate-the-interpolated-function">Integrate the interpolated function<a class="anchor-link" href="#Integrate-the-interpolated-function">&#182;</a></h3>
 </div>
 </div>
-
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input_hidden">
@@ -12142,7 +12101,7 @@ a.anchor-link {
 <div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span><span class="p">[:,</span><span class="mi">0</span><span class="p">]</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">ans</span><span class="p">,</span> <span class="n">err</span> <span class="o">=</span> <span class="n">integrate</span><span class="o">.</span><span class="n">quad</span><span class="p">(</span><span class="n">f</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">10</span><span class="p">);</span> <span class="n">ans</span>
 </pre></div>
 
 </div>
@@ -12163,7 +12122,7 @@ a.anchor-link {
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>array([0, 3, 6])</pre>
+<pre>2.9197153790964223</pre>
 </div>
 
 </div>
@@ -12171,6 +12130,14 @@ a.anchor-link {
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Integrate-the-data">Integrate the data<a class="anchor-link" href="#Integrate-the-data">&#182;</a></h3>
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input_hidden">
@@ -12178,7 +12145,7 @@ a.anchor-link {
 <div class="prompt input_prompt">In&nbsp;[7]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span><span class="o">.</span><span class="n">shape</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">integrate</span><span class="o">.</span><span class="n">simps</span><span class="p">(</span><span class="n">y</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="o">-</span><span class="mi">1</span><span class="p">],</span><span class="n">x</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
 </pre></div>
 
 </div>
@@ -12199,130 +12166,7 @@ a.anchor-link {
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>(3, 3)</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[8]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y</span> <span class="o">=</span> <span class="n">x</span><span class="p">[::</span><span class="mi">2</span><span class="p">,</span> <span class="p">::</span><span class="mi">2</span><span class="p">]</span>
-<span class="n">y</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[8]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>array([[0, 2],
-       [6, 8]])</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">y</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="mi">100</span>
-<span class="n">y</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">]</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[9]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>100</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div></div></section></section><section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div>
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Efficient-and-compact-finite-differences">Efficient and compact finite differences<a class="anchor-link" href="#Efficient-and-compact-finite-differences">&#182;</a></h1>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[10]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">20</span><span class="p">,</span><span class="mi">2</span><span class="p">)</span>
-<span class="n">y</span> <span class="o">=</span> <span class="n">x</span> <span class="o">**</span> <span class="mi">2</span>
-
-<span class="n">dy_dx</span> <span class="o">=</span> <span class="p">(</span><span class="n">y</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="o">-</span> <span class="n">y</span><span class="p">[:</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span> <span class="o">/</span> <span class="p">(</span><span class="n">x</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="o">-</span> <span class="n">x</span><span class="p">[:</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
-<span class="n">dy_dx</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[10]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>array([  2.,   6.,  10.,  14.,  18.,  22.,  26.,  30.,  34.])</pre>
+<pre>2.8550038226912573</pre>
 </div>
 
 </div>
@@ -12335,148 +12179,28 @@ a.anchor-link {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Sophisticated-broadcasting-rules">Sophisticated broadcasting rules<a class="anchor-link" href="#Sophisticated-broadcasting-rules">&#182;</a></h1>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[11]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">red</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">800</span><span class="p">,</span><span class="mi">600</span><span class="p">)</span>
-<span class="n">blue</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">800</span><span class="p">,</span> <span class="mi">600</span><span class="p">)</span>
-<span class="n">green</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">800</span><span class="p">,</span> <span class="mi">600</span><span class="p">)</span>
-<span class="n">rgb</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="n">red</span><span class="p">,</span> <span class="n">blue</span><span class="p">,</span> <span class="n">green</span><span class="p">])</span>
-<span class="n">rgb</span><span class="o">.</span><span class="n">shape</span>
-</pre></div>
+<h1 id="Why-Python/Numpy/SciPy?">Why Python/Numpy/SciPy?<a class="anchor-link" href="#Why-Python/Numpy/SciPy?">&#182;</a></h1><ul>
+<li><p>A <em>free</em> alternative to MATLAB</p>
+</li>
+<li><p>The power of the full Python language</p>
+<ul>
+<li>Object-oriented </li>
+<li>Procedural </li>
+<li>Functional (almost)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>More reasons come: <ul>
+<li>MATLAB-like plotting</li>
+<li>Call C/C++/Fortran code directly</li>
+<li>MPI-style parallel programming (take my graduate course!)</li>
+</ul>
+</li>
+</ul>
 
 </div>
 </div>
-</div>
-
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[11]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>(3, 800, 600)</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">rgb</span><span class="o">.</span><span class="n">T</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">])</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt output_prompt">Out[12]:</div>
-
-
-
-
-<div class="output_text output_subarea output_execute_result">
-<pre>array([[[ 0.0572915 ,  0.32313562,  0.16103862],
-        [ 0.17728031,  0.13808923,  0.10237519],
-        [ 0.31018678,  0.35407676,  0.32346525],
-        ..., 
-        [ 0.39877338,  0.44515327,  0.41391662],
-        [ 0.0947496 ,  0.45246471,  0.38517163],
-        [ 0.21095469,  0.36167983,  0.43376607]],
-
-       [[ 0.32578771,  0.20908545,  0.27450444],
-        [ 0.06499066,  0.29061026,  0.25727398],
-        [ 0.4903594 ,  0.41556017,  0.12463315],
-        ..., 
-        [ 0.30675776,  0.3224342 ,  0.11740479],
-        [ 0.04301273,  0.09905372,  0.44172653],
-        [ 0.03688823,  0.27918651,  0.23945417]],
-
-       [[ 0.14924607,  0.3934185 ,  0.1787775 ],
-        [ 0.37542107,  0.02616865,  0.19181638],
-        [ 0.0036889 ,  0.08759746,  0.28269157],
-        ..., 
-        [ 0.15305688,  0.07356994,  0.48027121],
-        [ 0.31778989,  0.09474409,  0.03948814],
-        [ 0.04076674,  0.1230122 ,  0.34899233]],
-
-       ..., 
-       [[ 0.28770621,  0.04297194,  0.0797577 ],
-        [ 0.09302244,  0.00407896,  0.19471398],
-        [ 0.49317651,  0.01786695,  0.34037306],
-        ..., 
-        [ 0.33641787,  0.00141393,  0.3542402 ],
-        [ 0.07212021,  0.47950944,  0.11248765],
-        [ 0.29026511,  0.0188487 ,  0.37162958]],
-
-       [[ 0.26561951,  0.4719433 ,  0.0235921 ],
-        [ 0.40664526,  0.0077357 ,  0.33035248],
-        [ 0.19008087,  0.21865365,  0.28132663],
-        ..., 
-        [ 0.1313237 ,  0.49808581,  0.4155362 ],
-        [ 0.01350529,  0.35242497,  0.14651145],
-        [ 0.42678719,  0.17068415,  0.09740046]],
-
-       [[ 0.48343202,  0.36808606,  0.17395177],
-        [ 0.49963094,  0.32164782,  0.10467973],
-        [ 0.28034237,  0.04529184,  0.38897793],
-        ..., 
-        [ 0.25209185,  0.14136379,  0.14376886],
-        [ 0.15740206,  0.02332228,  0.22485095],
-        [ 0.21098018,  0.13000661,  0.3129285 ]]])</pre>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input_hidden">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span> 
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-
 </div></section></section>
 </div>
 </div>
