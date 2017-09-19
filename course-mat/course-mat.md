@@ -26,9 +26,9 @@ and any other reference material.
 
 <a href="//youtu.be/GHCZOvjXGto" target="blank_">Lecture 7 - Numpy</a> ([HTML](/slides/Numpy.slides.html)) ([PDF](/slides/Numpy.pdf))
 
-<a href="//youtu.be/GHCZOvjXGto" target="blank_">Lecture 8 - SciPy</a> ([HTML](/slides/SciPy.slides.html)) ([PDF](/slides/SciPy.pdf))
+<a href="//youtu.be/hhDkdPRe01o" target="blank_">Lecture 8 - SciPy</a> ([HTML](/slides/SciPy.slides.html)) ([PDF](/slides/SciPy.pdf))
 
-<a href="//youtu.be/GHCZOvjXGto" target="blank_">Lecture 9 - matplotlib</a> ([HTML](/slides/matplotlib.slides.html)) ([PDF](/slides/matplotlib.pdf))
+<a href="//youtu.be/FNJc3ByKpRs" target="blank_">Lecture 9 - matplotlib</a> ([HTML](/slides/matplotlib.slides.html)) ([PDF](/slides/matplotlib.pdf))
 
 
 <!--<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 2 Playlist</a>-->
