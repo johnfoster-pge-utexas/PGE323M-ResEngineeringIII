@@ -31,13 +31,13 @@ and any other reference material.
 <a href="//youtu.be/FNJc3ByKpRs" target="blank_">Lecture 9 - matplotlib</a> ([HTML](/slides/matplotlib.slides.html)) ([PDF](/slides/matplotlib.pdf))
 
 
-<!--<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 2 Playlist</a>-->
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Lecture 10 Playlist</a>
  
-  <!--* <a href="//youtu.be/UItyFF4HcMA?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material time derivative</a> ([PDF](/notes/Material_Time_Derivative.pdf))-->
+  * <a href="//youtu.be/UItyFF4HcMA?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material time derivative</a> ([PDF](/notes/Material_Time_Derivative.pdf))
 
-  <!--* <a href="//youtu.be/-sxu2L_gG3E?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material form of mass conservation</a> ([PDF](/notes/Material_Form_Of_Mass_Conservation.pdf))-->
+  * <a href="//youtu.be/-sxu2L_gG3E?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Material form of mass conservation</a> ([PDF](/notes/Material_Form_Of_Mass_Conservation.pdf))
 
-  <!--* <a href="//youtu.be/-CxwTcnoDyI?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Mass conservation</a> ([PDF](/notes/Mass_Conservation.pdf))-->
+  * <a href="//youtu.be/-CxwTcnoDyI?list=PLKNU3sBDzHbIkTqS9b6CpU7HQ_VQn2Ukf" target="blank_">Mass conservation</a> ([PDF](/notes/Mass_Conservation.pdf))
 
 <!--<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Lecture 3 Playlist</a>-->
  
