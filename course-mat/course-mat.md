@@ -45,7 +45,7 @@ and any other reference material.
 
   * <a href="//youtu.be/9Bnls2kvhKQ?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Pressure Diffusivity Equation</a> ([PDF](/notes/Pressure_Diffusivity_Equation.pdf))
 
-  * <a href="//youtu.be/0rvynbKVX68?list=PLKNU3sBDzHbKYnLTs3jLdAB41JITME99m" target="blank_">Pressure Diffusivity Equation Example</a> ([PDF](/notes/Pressure_Diffusivity_Example.pdf))
+  * <a href="//youtu.be/H5pAq5EvAJg" target="blank_">Pressure Diffusivity Equation Example</a> ([PDF](/notes/Pressure_Diffusivity_Example.pdf))
 
 
 
