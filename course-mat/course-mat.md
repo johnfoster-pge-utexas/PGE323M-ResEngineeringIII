@@ -55,7 +55,7 @@ and any other reference material.
 
   * <a href="//youtu.be/f67jpwJu-d0" target="blank_">Finite Difference Approximations</a> ([PDF](/notes/FiniteDifferences.pdf))
   
-  * <a href="//youtu.be/oxSl6W7N9y8" target="blank_">Spatial Discretization with Finite Differences</a> ([PDF](/notes/SpatialApproximation.pdf))
+  * <a href="//youtu.be/oxSl6W7N9y8" target="blank_">Spatial Discretization with Finite Differences</a> ([PDF](/notes/SpatialApprox.pdf))
 
   * <a href="//youtu.be/rYWS_jIM8hQ" target="blank_">Explicit and Implicit Time Integration</a> ([PDF](/notes/TimeDiscretization.pdf))
 
