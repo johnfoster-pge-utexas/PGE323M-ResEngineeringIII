@@ -60,6 +60,8 @@ and any other reference material.
   * <a href="//youtu.be/rYWS_jIM8hQ" target="blank_">Explicit and Implicit Time Integration</a> ([PDF](/notes/TimeDiscretization.pdf))
 
 
+---
+
 
 [Assignments](https://github.com/PGE323M-Fall2017?utf8=%E2%9C%93&q=&type=public&language=_)
 
