@@ -47,6 +47,22 @@ and any other reference material.
 
   * <a href="//youtu.be/0rvynbKVX68" target="blank_">Pressure Diffusivity Equation Example</a> ([PDF](/notes/Pressure_Diffusivity_Example.pdf))
 
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJv4uX5VkWqDVmCz2vvg0lU" target="blank_">Lecture 12 Playlist</a>
+ 
+  * <a href="//youtu.be/YvRq6bhN3ko" target="blank_">Weak From of Pressure Diffusivity Equation</a> ([PDF](/notes/WeakForm.pdf))
+
+  * <a href="//youtu.be/oWmq8CV9XjE" target="blank_">1D Discretization</a> ([PDF](/notes/Discretization.pdf))
+
+  * <a href="//youtu.be/f67jpwJu-d0" target="blank_">Finite Difference Approximations</a> ([PDF](/notes/FiniteDifferences.pdf))
+  
+  * <a href="//youtu.be/oxSl6W7N9y8" target="blank_">Spatial Discretization with Finite Differences</a> ([PDF](/notes/SpatialApproximation.pdf))
+
+  * <a href="//youtu.be/rYWS_jIM8hQ" target="blank_">Explicit and Implicit Time Integration</a> ([PDF](/notes/TimeDiscretization.pdf))
+
+
+
+[Assignments](https://github.com/PGE323M-Fall2017?utf8=%E2%9C%93&q=&type=public&language=_)
+
 
 
 <!--### 11/07/2016-->
