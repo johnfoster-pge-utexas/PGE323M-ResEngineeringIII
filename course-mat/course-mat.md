@@ -59,6 +59,9 @@ and any other reference material.
 
   * <a href="//youtu.be/rYWS_jIM8hQ" target="blank_">Explicit and Implicit Time Integration</a> ([PDF](/notes/TimeDiscretization.pdf))
 
+<a href="//youtu.be/yX4HEMw-lPM" target="blank_">Lecture 13 - Boundary Conditions</a> ([PDF](/slides/matplotlib.pdf))
+
+
 
 ---
 
