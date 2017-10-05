@@ -61,6 +61,14 @@ and any other reference material.
 
 <a href="//youtu.be/yX4HEMw-lPM" target="blank_">Lecture 13 - Boundary Conditions</a> ([PDF](/notes/BoundaryConditions.pdf))
 
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbKTgRbpGaOELaj98f-LORfd" target="blank_">Lecture 14 Playlist</a>
+ 
+  * <a href="//youtu.be/OkllssJtMyc" target="blank_">Transmissibility Form of the Discrete Equations</a> ([PDF](/notes/TransmissibilityForm.pdf))
+
+  * <a href="//youtu.be/7VKQHQulaTY" target="blank_">Formation Volume Factor</a> ([PDF](/notes/FormationVolumeFactor.pdf))
+
+  * <a href="//youtu.be/AEmrR6D-le8" target="blank_">Mixed Time Integration Methods</a> ([PDF](/notes/MixedMethods.pdf))
+
 
 
 ---
