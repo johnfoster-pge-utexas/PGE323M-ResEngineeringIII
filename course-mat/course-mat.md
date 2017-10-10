@@ -69,6 +69,8 @@ and any other reference material.
 
   * <a href="//youtu.be/AEmrR6D-le8" target="blank_">Mixed Time Integration Methods</a> ([PDF](/notes/MixedMethods.pdf))
 
+<a href="//youtu.be/dglLoLJbROA" target="blank_">Lecture 15 - Finite Volume Discretization in 1D</a> ([PDF](/notes/BoundaryConditions.pdf))
+
 
 
 ---
