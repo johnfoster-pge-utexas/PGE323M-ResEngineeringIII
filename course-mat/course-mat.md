@@ -71,6 +71,14 @@ and any other reference material.
 
 <a href="//youtu.be/dglLoLJbROA" target="blank_">Lecture 15 - Finite Volume Discretization in 1D</a> ([PDF](/notes/FiniteVolume1D.pdf))
 
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbLrx0my5my11XODkYpgP-iO" target="blank_">Lecture 16 Playlist</a>
+ 
+  * <a href="//youtu.be/iUcrfolnIYc" target="blank_">Finite Volume in 1D for Heterogeneous Reservoirs</a> ([PDF](/notes/FiniteVolume1DHetero.pdf))
+
+  * <a href="//youtu.be/ZHOlK9q2PYI" target="blank_">Interblock Reservoir Properties</a> ([PDF](/notes/InterblockProperties.pdf))
+
+  * <a href="//youtu.be/XexrRtDcMaI" target="blank_">Boundary Conditions for Heterogeneous Reservoirs</a> ([PDF](/notes/BoundaryConditionsHetero.pdf))
+
 
 
 ---
