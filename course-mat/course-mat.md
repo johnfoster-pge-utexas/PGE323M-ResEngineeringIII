@@ -49,7 +49,7 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJv4uX5VkWqDVmCz2vvg0lU" target="blank_">Lecture 12 Playlist</a>
  
-  * <a href="//youtu.be/YvRq6bhN3ko" target="blank_">Weak From of Pressure Diffusivity Equation</a> ([PDF](/notes/WeakForm.pdf))
+  * <a href="//youtu.be/YvRq6bhN3ko" target="blank_">Weak Form of Pressure Diffusivity Equation</a> ([PDF](/notes/WeakForm.pdf))
 
   * <a href="//youtu.be/oWmq8CV9XjE" target="blank_">1D Discretization</a> ([PDF](/notes/Discretization.pdf))
 
