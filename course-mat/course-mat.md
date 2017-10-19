@@ -80,6 +80,8 @@ and any other reference material.
   * <a href="//youtu.be/XexrRtDcMaI" target="blank_">Boundary Conditions for Heterogeneous Reservoirs</a> ([PDF](/notes/BoundaryConditionsHetero.pdf))
 
 
+<a href="//youtu.be/jt5euIPuB6Y" target="blank_">Lecture 16 - 1D Single Phase Flow Example in CMG</a> 
+
 
 ---
 
