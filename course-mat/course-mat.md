@@ -84,15 +84,15 @@ and any other reference material.
 
 <a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbI4qD55I189y02asrHrgz6_" target="blank_">Lecture 18 Playlist</a>
  
-  * <a href="//youtu.be/3Sw2T27nkGI" target="blank_">Introduction to Two-Dimensional Problems</a> ([PDF](/notes/FiniteVolume1DHetero.pdf))
+  * <a href="//youtu.be/3Sw2T27nkGI" target="blank_">Introduction to Two-Dimensional Problems</a> ([PDF](/notes/IntroTo2D.pdf))
 
-  * <a href="//youtu.be/2hxV5kJojRM" target="blank_">2D Finite Volume Discretization</a> ([PDF](/notes/InterblockProperties.pdf))
+  * <a href="//youtu.be/2hxV5kJojRM" target="blank_">2D Finite Volume Discretization</a> ([PDF](/notes/2D_Discretization.pdf))
 
-  * <a href="/youtu.be/V297RMyvF58" target="blank_">Boundary Conditions in 2D</a> ([PDF](/notes/BoundaryConditionsHetero.pdf))
+  * <a href="/youtu.be/V297RMyvF58" target="blank_">Boundary Conditions in 2D</a> ([PDF](/notes/2D_BoundaryConditions.pdf))
 
-  * <a href="//youtu.be/WSSoXBdukxg" target="blank_">Interblock Permeabilities</a> ([PDF](/notes/BoundaryConditionsHetero.pdf))
+  * <a href="//youtu.be/WSSoXBdukxg" target="blank_">Interblock Permeabilities</a> ([PDF](/notes/InterblockPermeabilities.pdf))
 
-  * <a href="//youtu.be/Y95Htf-UqFQ" target="blank_">Irregular Domains</a> ([PDF](/notes/BoundaryConditionsHetero.pdf))
+  * <a href="//youtu.be/Y95Htf-UqFQ" target="blank_">Irregular Domains</a> ([PDF](/notes/IrregularDomains.pdf))
 
 
 ---
