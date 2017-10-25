@@ -4,6 +4,11 @@
 .. date: 2015-08-25 11:24:22 UTC-05:00
 -->
 
+
+[Assignments](https://github.com/PGE323M-Fall2017?utf8=%E2%9C%93&q=&type=public&language=_)
+
+---
+
 This page provides a listing, in reverse chronological order, of course materials that are associated to
 each scheduled lecture period.  This may include PDFs of the final lecture notes, links to recorded lectures, 
 and any other reference material.
@@ -95,10 +100,6 @@ and any other reference material.
   * <a href="//youtu.be/Y95Htf-UqFQ" target="blank_">Irregular Domains</a> ([PDF](/notes/IrregularDomains.pdf))
 
 
----
-
-
-[Assignments](https://github.com/PGE323M-Fall2017?utf8=%E2%9C%93&q=&type=public&language=_)
 
 
 
