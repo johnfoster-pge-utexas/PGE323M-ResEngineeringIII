@@ -102,6 +102,8 @@ and any other reference material.
 
   * <a href="//youtu.be/Y95Htf-UqFQ" target="blank_">Irregular Domains</a> ([PDF](/notes/IrregularDomains.pdf))
 
+<a href="//youtu.be/4UGY74SJZ-o" target="blank_">Lecture 18 - Simple 2D Problem in CMG</a> 
+
 
 
 
