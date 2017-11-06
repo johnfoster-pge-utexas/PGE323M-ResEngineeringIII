@@ -110,4 +110,4 @@ and any other reference material.
 
   * <a href="//youtu.be/CgZ2JW553uE" target="blank_">Modifications to the Discrete Equations for Wells</a> ([PDF](/notes/ModificationsForWells.pdf))
 
-  * <a href="//youtu.be/pF5GqlwpU0Y" target="blank_">Heterogeneities and horizontal wells</a> ([PDF](/notes/HorizonatalWells.pdf))
+  * <a href="//youtu.be/pF5GqlwpU0Y" target="blank_">Heterogeneities and horizontal wells</a> ([PDF](/notes/HorizontalWells.pdf))
