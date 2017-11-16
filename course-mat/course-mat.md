@@ -111,3 +111,15 @@ and any other reference material.
   * <a href="//youtu.be/CgZ2JW553uE" target="blank_">Modifications to the Discrete Equations for Wells</a> ([PDF](/notes/ModificationsForWells.pdf))
 
   * <a href="//youtu.be/pF5GqlwpU0Y" target="blank_">Heterogeneities and horizontal wells</a> ([PDF](/notes/HorizontalWells.pdf))
+
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbJ-mpW683HoxQ4weVzvx4Xp" target="blank_">Lecture 21 Playlist</a>
+ 
+  * <a href="//youtu.be/mH-WEpa9dtg" target="blank_">Multiphase flow: Water Balance</a>
+
+  * <a href="//youtu.be/8IExw2pI9p8" target="blank_">Multiphase flow: Oil Balance</a>
+
+  * <a href="//youtu.be/hgBmCY4gbug" target="blank_">Multiphase flow: Gas Balance</a>
+
+  * <a href="//youtu.be/A_WjBngju6Q" target="blank_">Summary of Multiphase Flow Equations</a>
+
+  * <a href="//youtu.be/2NLsnBjvK4U" target="blank_">Buckley-Leverett Theory</a>
