@@ -123,3 +123,18 @@ and any other reference material.
   * <a href="//youtu.be/A_WjBngju6Q" target="blank_">Summary of Multiphase Flow Equations</a>
 
   * <a href="//youtu.be/2NLsnBjvK4U" target="blank_">Buckley-Leverett Theory</a>
+
+  
+<a href="//www.youtube.com/playlist?list=PLKNU3sBDzHbI5J0pgs7WdrBngQI1wKNAO" target="blank_">Lecture 22 Playlist</a>
+ 
+  * <a href="//youtu.be/mTKY8B0G7to" target="blank_">IMPES - Pressure Equation</a>
+
+  * <a href="//youtu.be/oybVNRzr158" target="blank_">IMPES - Saturation Equation</a>
+
+  * <a href="//youtu.be/TpjCsSsrfkE" target="blank_">IMPES - Discrete Pressure Equation</a>
+
+  * <a href="//youtu.be/yFxgJXcsDNc" target="blank_">IMPES - Discrete Saturation Equation</a>
+
+  * <a href="//youtu.be/7PVVhzQRdlk" target="blank_">IMPES - Total Transmissibility</a>
+
+  * <a href="//youtu.be/6NJOO8M5x-Y" target="blank_">Discussion on Upwinding</a>
