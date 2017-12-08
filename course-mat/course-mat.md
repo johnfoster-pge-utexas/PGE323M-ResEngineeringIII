@@ -138,3 +138,5 @@ and any other reference material.
   * <a href="//youtu.be/7PVVhzQRdlk" target="blank_">IMPES - Total Transmissibility</a>
 
   * <a href="//youtu.be/6NJOO8M5x-Y" target="blank_">Discussion on Upwinding</a>
+
+<a href="//youtu.be/MWnBgE7aMtU" target="blank_">Lecture 23 - Special Topics</a>
