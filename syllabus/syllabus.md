@@ -14,8 +14,8 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 3.114
-**Class Time:** T-Th 10:00 - 11:30 AM  
+**Class Location:** CPE 3.114  
+**Class Time:** T-Th 9:30 - 11:00 AM  
 **Office Hours:** F 9:00 AM - 10:30 PM and by appointment   
 
 
@@ -102,7 +102,7 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |10/25| Heterogeneities | |
 |10/30| 2D Flow |
 |11/6| 2D Flow, wells and well models |  |
-|11/8| Multiphase Flow | Project #1a |
+|11/8| Multiphase Flow |  |
 |11/13| Project 1 in CMG |   |
 |11/15| Multiphase Flow | |
 |11/20| Multiphase Flow | |
