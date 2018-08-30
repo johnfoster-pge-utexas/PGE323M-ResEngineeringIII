@@ -6,7 +6,7 @@
 .. description: PGE 323M - Reservoir Engineering III syllabus page
 -->
 
-## PGE 334M - Reservoir Engineering III  
+## PGE 323M - Reservoir Engineering III  
 
 
 **Instructor:** John T. Foster, Ph.D.  
