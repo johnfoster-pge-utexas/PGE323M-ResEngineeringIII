@@ -15,18 +15,20 @@
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
 **Class Location:** CPE 3.114  
-**Class Time:** T-Th 9:30 - 11:00 AM  
-**Office Hours:** F 9:00 AM - 10:30 PM and by appointment   
+**Class Time:** T-Th 11:00 AM - 12:30 PM  
+**Office Hours:** T-Th 10:00 AM - 11:00 AM and by appointment   
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1234497](https://utexas.instructure.com/courses/1234497)
+**Course Website:** [https://utexas.instructure.com/courses/1261373](https://utexas.instructure.com/courses/1261373)
+
+**Course Development Environment:** [https://spindletop.utexas.edu](https://spindletop.utexas.edu)
 
 **Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering. 
 
 
 **Prerequisites:** Petroleum and Geosystems Engineering 323L
 
-**Book:** Most of the reservoir simulation textbooks are out-dated and/or are geared towards graduate students. Therefore, I suggest printing out the provided powerpoint notes this semester and using them as a guide. There are several books that would make a good reference which are included below.  
+**Book:** Most of the reservoir simulation textbooks are out-dated and/or are geared towards graduate students. There are several books that would make a good reference which are included below.  
 
 Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may be downloaded from Canvas and used as a reference.  
 
@@ -85,32 +87,34 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 
 | Date | Description | Assignment |
 |-----------------|---------------------|-----------|
-|8/30| Introduction||
-|9/4| Software tools used in the course ||
-|9/6| Introduction to git and GitHub ||
-|9/11| Introduction to Python and Python functions ||
-|9/13| Python - Data structures, Loops and conditional statements ||
-|9/20| Python - Object-oriented programming ||
-|9/25| Python - Numpy, Scipy, matplotlib ||
-|9/27| Image Nechelik Reservoir |  |
-|10/4| Single-Phase Flow Eqns | |
-|10/6| Finite Differencing | |
-|10/11| Explicit and Implicit Method |  |
-|10/13| Implicit Method and Transmiss | |
-|10/18| CMG Tutorial | |
-|10/23| Crank Nicholson + Control Volume |  |
-|10/25| Heterogeneities | |
-|10/30| 2D Flow |
-|11/6| 2D Flow, wells and well models |  |
-|11/8| Multiphase Flow |  |
-|11/13| Project 1 in CMG |   |
-|11/15| Multiphase Flow | |
-|11/20| Multiphase Flow | |
-|11/22| **Thanksgiving** | |
-|11/27| IMPES |  |
-|11/29| Project 2 in CMG |  |
-|12/4| Advanced Topics | |
-|12/6|  Advanced Topics | |
+|8/29| Introduction||
+|9/3| Software tools used in the course ||
+|9/5| Introduction to git and GitHub ||
+|9/10| Introduction to Python and Python functions ||
+|9/12| Python - Data structures, Loops and conditional statements ||
+|9/17| Python - Object-oriented programming ||
+|9/19| Python - Numpy, Scipy, matplotlib ||
+|9/24| Image Nechelik Reservoir |  |
+|9/26| Single-Phase Flow Eqns | |
+|10/1| Finite Differencing | |
+|10/3| Explicit and Implicit Method |  |
+|10/8| Implicit Method and Transmiss | |
+|10/10| CMG Tutorial | |
+|10/15| Crank Nicholson + Control Volume |  |
+|10/17| Heterogeneities | |
+|10/22| 2D Flow |
+|10/24| 2D Flow, wells and well models |  |
+|10/29| Multiphase Flow |  |
+|10/31| Project 1 in CMG |   |
+|11/5| Multiphase Flow | |
+|11/7| Multiphase Flow | |
+|11/12| IMPES |  |
+|11/14| Project 2 in CMG |  |
+|11/19| Advanced Topics | |
+|11/26|  Advanced Topics | |
+|11/28| **Thanksgiving** | |
+|11/3| Advanced Topics | |
+|11/5|  Advanced Topics | |
 
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
