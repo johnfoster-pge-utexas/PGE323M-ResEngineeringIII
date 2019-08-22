@@ -1,6 +1,7 @@
 name: PGE323
 dependencies:
 - python=3.7
+- pip
 - pip:
   - appnope==0.1.0
   - blinker==1.4
