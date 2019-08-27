@@ -19,7 +19,7 @@ install:
   - conda update -q conda
   - conda info -a
   - conda env create -f environment.yml
-  - source activate PGE323
+  - source activate PGE323M
 compiler:
   - gcc
 script: 
