@@ -1,4 +1,4 @@
-name: PGE323M-website
+name: PGE323M
 channels:
   - defaults
 dependencies:
