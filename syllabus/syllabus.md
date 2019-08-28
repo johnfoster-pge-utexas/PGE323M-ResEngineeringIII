@@ -1,7 +1,7 @@
 <!--
 .. title: Syllabus
 .. slug: index
-.. date: 2017-08-29 08:00:00 UTC-05:00
+.. date: 2019-08-29 10:00:00 UTC-05:00
 .. template: notitle.tmpl
 .. description: PGE 323M - Reservoir Engineering III syllabus page
 -->
@@ -21,7 +21,7 @@
 
 **Course Website:** [https://utexas.instructure.com/courses/1261373](https://utexas.instructure.com/courses/1261373)
 
-**Course Development Environment:** [https://spindletop.utexas.edu](https://spindletop.utexas.edu)
+**Course Development Environment:** [https://spindletop.pge.utexas.edu](https://spindletop.utexas.edu)
 
 **Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering. 
 
