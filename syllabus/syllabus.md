@@ -19,7 +19,7 @@
 **Office Hours:** T-Th 10:00 AM - 11:00 AM and by appointment   
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1261373](https://utexas.instructure.com/courses/1261373)
+**Course Website:** [https://utexas.instructure.com/courses/1261373](https://utexas.instructure.com/courses/1266190) 
 
 **Course Development Environment:** [https://spindletop.pge.utexas.edu](https://spindletop.utexas.edu)
 
