@@ -1,7 +1,7 @@
 <!--
 .. title: Syllabus
 .. slug: index
-.. date: 2019-08-29 10:00:00 UTC-05:00
+.. date: 2019-08-28 10:00:00 UTC-05:00
 .. template: notitle.tmpl
 .. description: PGE 323M - Reservoir Engineering III syllabus page
 -->

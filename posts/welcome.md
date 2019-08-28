@@ -1,7 +1,7 @@
 <!--
 .. title: Welcome!
 .. slug: welcome
-.. date: 2019-08-29 08:00:00 UTC-05:00
+.. date: 2019-08-28 08:00:00 UTC-05:00
 .. tags: 
 .. link: 
 .. description: 
