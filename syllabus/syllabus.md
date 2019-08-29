@@ -16,7 +16,7 @@
 
 **Class Location:** CPE 3.114  
 **Class Time:** T-Th 11:00 AM - 12:30 PM  
-**Office Hours:** T-Th 10:00 AM - 11:00 AM and by appointment   
+**Office Hours:** T-Th 9:45 AM - 10:45 AM and by appointment   
 
 
 **Course Website:** [https://utexas.instructure.com/courses/1266190](https://utexas.instructure.com/courses/1266190) 
