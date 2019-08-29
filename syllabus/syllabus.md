@@ -21,7 +21,7 @@
 
 **Course Website:** [https://utexas.instructure.com/courses/1266190](https://utexas.instructure.com/courses/1266190) 
 
-**Course Development Environment:** [https://spindletop.pge.utexas.edu](https://spindletop.utexas.edu)
+**Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">spindletop.pge.utexas.edu</a>
 
 **Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering. 
 
