@@ -1,7 +1,7 @@
 <!--
 .. title: Syllabus
 .. slug: index
-.. date: 2019-08-28 10:00:00 UTC-05:00
+.. date: 2020-08-26 10:00:00 UTC-05:00
 .. template: notitle.tmpl
 .. description: PGE 323M - Reservoir Engineering III syllabus page
 -->
@@ -16,10 +16,10 @@
 
 **Class Location:** CPE 3.114  
 **Class Time:** T-Th 11:00 AM - 12:30 PM  
-**Office Hours:** T-Th 9:45 AM - 10:45 AM and by appointment   
+**Office Hours:** By appointment
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1266190](https://utexas.instructure.com/courses/1266190) 
+**Course Website:** [https://utexas.instructure.com/courses/1289994](https://utexas.instructure.com/courses/128994) 
 
 **Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">spindletop.pge.utexas.edu</a>
 
@@ -87,34 +87,35 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 
 | Date | Description | Assignment |
 |-----------------|---------------------|-----------|
-|8/29| Introduction||
-|9/3| Software tools used in the course ||
-|9/5| Introduction to git and GitHub ||
-|9/10| Introduction to Python and Python functions ||
-|9/12| Python - Data structures, Loops and conditional statements ||
-|9/17| Python - Object-oriented programming ||
-|9/19| Python - Numpy, Scipy, matplotlib ||
-|9/24| Image Nechelik Reservoir |  |
-|9/26| Single-Phase Flow Eqns | |
-|10/1| Finite Differencing | |
-|10/3| Explicit and Implicit Method |  |
-|10/8| Implicit Method and Transmiss | |
-|10/10| CMG Tutorial | |
-|10/15| Crank Nicholson + Control Volume |  |
-|10/17| Heterogeneities | |
-|10/22| 2D Flow |
-|10/24| 2D Flow, wells and well models |  |
-|10/29| Multiphase Flow |  |
-|10/31| Project 1 in CMG |   |
+|8/27| Introduction||
+|9/1| Software tools used in the course ||
+|9/3| Introduction to git and GitHub ||
+|9/8| Introduction to Python and Python functions ||
+|9/10| Python - Data structures, Loops and conditional statements ||
+|9/15| Python - Object-oriented programming ||
+|9/17| Python - Numpy, Scipy, matplotlib ||
+|9/22| Image Nechelik Reservoir |  |
+|9/24| Single-Phase Flow Eqns | |
+|9/29| Finite Differencing | |
+|10/1| Explicit and Implicit Method |  |
+|10/6| Implicit Method and Transmiss | |
+|10/8| CMG Tutorial | |
+|10/13| Crank Nicholson + Control Volume |  |
+|10/15| Heterogeneities | |
+|10/20| 2D Flow |
+|10/22| 2D Flow, wells and well models |  |
+|10/27| Multiphase Flow |  |
+|10/29| Project 1 in CMG |   |
+|11/3| Multiphase Flow | |
 |11/5| Multiphase Flow | |
-|11/7| Multiphase Flow | |
-|11/12| IMPES |  |
-|11/14| Project 2 in CMG |  |
-|11/19| Advanced Topics | |
-|11/26|  Advanced Topics | |
-|11/28| **Thanksgiving** | |
-|11/3| Advanced Topics | |
-|11/5|  Advanced Topics | |
+|11/10| IMPES |  |
+|11/12| Project 2 in CMG |  |
+|11/17| Advanced Topics | |
+|11/19|  Advanced Topics | |
+|11/24|  Advanced Topics | |
+|11/26| **Thanksgiving** | |
+|12/1| Advanced Topics | |
+|12/3|  Advanced Topics | |
 
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
