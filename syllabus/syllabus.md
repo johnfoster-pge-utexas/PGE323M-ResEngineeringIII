@@ -85,10 +85,10 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 **Outline:** Below is a general outline of what I intend to cover in the course.  This is subject to change based on the needs and preparation of the students in the class.  Any updates will be posted as they occur.  
 
 
-| Date | Description | Assignment |
+| Date | Description | Recording |
 |-----------------|---------------------|-----------|
-|8/27| Introduction||
-|9/1| Software tools used in the course ||
+|8/27| Introduction| [Recording Link](https://utexas.zoom.us/rec/share/6ZZnHZX3q2FIUIXsy0H_QIQtEtjuX6a8gyNM-6YJz0pWhSARXvSqGJjs62ddtmf_) |
+|9/1| Software tools used in the course | [Recording Link](https://utexas.zoom.us/rec/share/wtVtdu2s-jNIWJXI80LFGaw9E9rFeaa8gCUZrPIEzdpCsnpOJi8XFpygCmAR08w) |
 |9/3| Introduction to git and GitHub ||
 |9/8| Introduction to Python and Python functions ||
 |9/10| Python - Data structures, Loops and conditional statements ||
