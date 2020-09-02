@@ -87,8 +87,8 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 
 | Date | Description | Recording |
 |-----------------|---------------------|-----------|
-|8/27| Introduction| [Recording Link](https://utexas.zoom.us/rec/share/6ZZnHZX3q2FIUIXsy0H_QIQtEtjuX6a8gyNM-6YJz0pWhSARXvSqGJjs62ddtmf_) |
-|9/1| Software tools used in the course | [Recording Link](https://utexas.zoom.us/rec/share/wtVtdu2s-jNIWJXI80LFGaw9E9rFeaa8gCUZrPIEzdpCsnpOJi8XFpygCmAR08w) |
+|8/27| Introduction| <a href="https://utexas.zoom.us/rec/share/6ZZnHZX3q2FIUIXsy0H_QIQtEtjuX6a8gyNM-6YJz0pWhSARXvSqGJjs62ddtmf_" target="_blank">Recording Link</a> |
+|9/1| Software tools used in the course | <a href="https://utexas.zoom.us/rec/share/wtVtdu2s-jNIWJXI80LFGaw9E9rFeaa8gCUZrPIEzdpCsnpOJi8XFpygCmAR08w" target="_blank">Recording Link</a> |
 |9/3| Introduction to git and GitHub ||
 |9/8| Introduction to Python and Python functions ||
 |9/10| Python - Data structures, Loops and conditional statements ||
