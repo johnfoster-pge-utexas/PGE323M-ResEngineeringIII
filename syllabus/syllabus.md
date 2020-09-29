@@ -91,11 +91,11 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |9/1| Software tools used in the course | <a href="https://utexas.zoom.us/rec/share/wtVtdu2s-jNIWJXI80LFGaw9E9rFeaa8gCUZrPIEzdpCsnpOJi8XFpygCmAR08w" target="_blank">Recording Link</a> |
 |9/3| Introduction to git and GitHub |<a href="https://utexas.zoom.us/rec/share/OGS6XthpsTnvKeCkYhctzd8k_v-SS6DysU50JDEX2uDBvFmWTapKtjKh5T9NlJDN.1gnfXgENQdx1A-fC" target="_blank">Recording Link</a>|
 |9/8| Introduction to Python and Python functions |<a href="https://utexas.zoom.us/rec/share/d6LchZpjtpzk9ErqwpBiWr6RF7WzsGTkIf4LYzZuRC_j9zzE1xd33IA5EWdaoIHC.U8x8Bqw27NMvqirR" target="_blank">Recording Link</a>|
-|9/10| Python - Data structures, Loops and conditional statements ||
-|9/15| Python - Object-oriented programming ||
-|9/17| Python - Numpy, Scipy, matplotlib ||
-|9/22| Image Nechelik Reservoir |  |
-|9/24| Single-Phase Flow Eqns | |
+|9/10| Python - Data structures, Loops and conditional statements |<a href="https://utexas.zoom.us/rec/share/sLDt38jLkURpiajhGLyprPn-lmrZIMDJDXplrMPQMignbsxKYbyoeDCQax9bsLQM.zXKEJM1FKrDkk0dv" target="_blank">Recording Link</a>|
+|9/15| Python - Object-oriented programming |<a href="https://utexas.zoom.us/rec/share/rMrWWC-OQsvWvM6-JNXb4UbUFUY1jSl8WdtiRbnWazzxWr1NNBT0yCksu0B-j9wt.dkZ7e-xC1HJqnx7S" target="_blank">Recording Link</a>|
+|9/17| Python - Numpy, Scipy, matplotlib |<a href="https://utexas.zoom.us/rec/share/gFs_mJFiIvGqTKXqptqk-V8mHHueeczitE8q4Fv7U3kt3Dh60uCL5q7l3rA4aw29.vdHL9HL7AbsKrk_Q" target="_blank">Recording Link</a>|
+|9/22| Image Nechelik Reservoir |<a href="https://utexas.zoom.us/rec/share/JWtS86AibenehSBwixTY-7n56XG4wB5ixh8hrXYEc-FaIAYEbX55XFGlJI8u7B6U.Cr7Et0Uww7uWdXTr" target="_blank">Recording Link</a>|
+|9/24| Single-Phase Flow Eqns |<a href="https://utexas.zoom.us/rec/share/teN-ABowM111SSCmwUDA52lGAXoJHHtTLlGY5NljRTIRFPfIubrkE3ZnJB6MV1AC.H1YtazdUe2mPNEiN" target="_blank">Recording Link</a>|
 |9/29| Finite Differencing | |
 |10/1| Explicit and Implicit Method |  |
 |10/6| Implicit Method and Transmiss | |
