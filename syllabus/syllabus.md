@@ -96,8 +96,8 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |9/17| Python - Numpy, Scipy, matplotlib |<a href="https://utexas.zoom.us/rec/share/gFs_mJFiIvGqTKXqptqk-V8mHHueeczitE8q4Fv7U3kt3Dh60uCL5q7l3rA4aw29.vdHL9HL7AbsKrk_Q" target="_blank">Recording Link</a>|
 |9/22| Image Nechelik Reservoir |<a href="https://utexas.zoom.us/rec/share/JWtS86AibenehSBwixTY-7n56XG4wB5ixh8hrXYEc-FaIAYEbX55XFGlJI8u7B6U.Cr7Et0Uww7uWdXTr" target="_blank">Recording Link</a>|
 |9/24| Single-Phase Flow Eqns |<a href="https://utexas.zoom.us/rec/share/teN-ABowM111SSCmwUDA52lGAXoJHHtTLlGY5NljRTIRFPfIubrkE3ZnJB6MV1AC.H1YtazdUe2mPNEiN" target="_blank">Recording Link</a>|
-|9/29| Finite Differencing | |
-|10/1| Explicit and Implicit Method |  |
+|9/29| Finite Differencing |<a href="https://utexas.zoom.us/rec/share/-4g2GZDE-p51eDVopnjt_mGAmbQ-mcr0hVDdxbW4o9HvAGutJy3wjUbPdIGDDSGD.VlcG0m_RbjdaZlqn" target="_blank">Recording Link</a>|
+|10/1| Explicit and Implicit Method |<a href="https://utexas.zoom.us/rec/share/-dWMWLw1B8OTQkE1D0t9uq3rLpc4IUmPq8ykZ8OV2qI--VFBuRGDPyNN70fmI6gM.szl2G0Fc7ImjzOIY" target="_blank">Recording Link</a>|
 |10/6| Implicit Method and Transmiss | |
 |10/8| CMG Tutorial | |
 |10/13| Crank Nicholson + Control Volume |  |
