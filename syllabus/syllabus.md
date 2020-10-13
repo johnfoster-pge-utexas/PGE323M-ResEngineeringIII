@@ -100,7 +100,7 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |10/1| Explicit and Implicit Method |<a href="https://utexas.zoom.us/rec/share/-dWMWLw1B8OTQkE1D0t9uq3rLpc4IUmPq8ykZ8OV2qI--VFBuRGDPyNN70fmI6gM.szl2G0Fc7ImjzOIY" target="_blank">Recording Link</a>|
 |10/6| Implicit Method and Transmiss |<a href="https://utexas.zoom.us/rec/share/DPSvo9_58OlwHSNW07zomlFHnEK_k4JkIfX6_WZSUJ7q4O6KwDmwGxolNvJNbgZ-.BIYRsJXBn1xmq_Ln" target="_blank">Recording Link</a> |
 |10/8| CMG Tutorial |<a href="https://utexas.zoom.us/rec/share/KiI8p6hMAFZGwxBkXXTD3Z7jIoBRLLivUdqpKVobMmVGjqGgvIxCiiQHzepjT8P8.ng3vEd_B6KwVk3B-" target="_blank">Recording Link</a> |
-|10/13| Crank Nicholson + Control Volume |  |
+|10/13| Crank Nicholson + Control Volume |<a href="https://utexas.zoom.us/rec/share/v0E7kpomot5_TwTs-BeodMylVFzoaQForijHRiquF77k4N1h4EjvbESXQsUUKQGi.mzGsewXx67OI9-rl" target="_blank">Recording Link</a> |
 |10/15| Heterogeneities | |
 |10/20| 2D Flow |
 |10/22| 2D Flow, wells and well models |  |
