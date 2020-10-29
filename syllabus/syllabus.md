@@ -104,8 +104,8 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |10/15| Heterogeneities | <a href="https://utexas.zoom.us/rec/share/eeaZBWJ82efcyIwFNOiwIBfHfrHuFE0NZGXZoEA779FhoUjPZqbFHybb8RAU6SXM.6hp8OwQEPIxoX0cP" target="_blank">Recording Link</a> |
 |10/20| 2D Flow | <a href="https://utexas.zoom.us/rec/share/iFWCmXutBCw0jbJLofqH5x3LkBO2d7IIyJsWnUmQjASd353exdpBxwF_jTJ_tzvN.6ruBYphqtJlOBTi2" target="_blank">Recording Link</a> |
 |10/22| 2D Flow, wells and well models | <a href="https://utexas.zoom.us/rec/share/Uk6AdVdKIP7Adt_pRJ_1d6sV0gSujoVuXectsLTPBuVQxgMY5SxlrsFZAflziMxN.F_7SC7cksgV-O0r5" target="_blank">Recording Link</a> |
-|10/27| Multiphase Flow |  |
-|10/29| Project 1 in CMG |   |
+|10/27| Multiphase Flow |  N/A |
+|10/29| Project 1 in CMG | <a href="https://utexas.zoom.us/rec/share/cHg8tcLOGoJUsHKvesQSGStIVcyio87afUEhCiMmDqpBzeNas6tqSBdioQ8d7OrV.iZkuX0BE8zSLM_p6" target="_blank">Recording Link</a> |
 |11/3| Multiphase Flow | |
 |11/5| Multiphase Flow | |
 |11/10| IMPES |  |
