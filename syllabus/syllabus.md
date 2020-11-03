@@ -106,7 +106,7 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |10/22| 2D Flow, wells and well models | <a href="https://utexas.zoom.us/rec/share/Uk6AdVdKIP7Adt_pRJ_1d6sV0gSujoVuXectsLTPBuVQxgMY5SxlrsFZAflziMxN.F_7SC7cksgV-O0r5" target="_blank">Recording Link</a> |
 |10/27| Multiphase Flow |  N/A |
 |10/29| Project 1 in CMG | <a href="https://utexas.zoom.us/rec/share/cHg8tcLOGoJUsHKvesQSGStIVcyio87afUEhCiMmDqpBzeNas6tqSBdioQ8d7OrV.iZkuX0BE8zSLM_p6" target="_blank">Recording Link</a> |
-|11/3| Multiphase Flow | |
+|11/3| Multiphase Flow | <a href="https://utexas.zoom.us/rec/share/xbjDBWCBPWAw2Uh9_U6I-ZF1YcNdNaRtRpp4uEAhcKNeEr0pRVgp-Pp1WIj9YSWr.vEvgiXUY6zxCZ2_i" target="_blank">Recording Link</a> |
 |11/5| Multiphase Flow | |
 |11/10| IMPES |  |
 |11/12| Project 2 in CMG |  |
