@@ -110,7 +110,7 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |11/5| Multiphase Flow | <a href="https://utexas.zoom.us/rec/share/h_8cgPLWhjbc8fJqgQghzYYT0RUHUuEJ6evGLRTbQ2wGhMdE7_K7WWy5N37xcFc.gqg_aZiEjvxZ_9F0" target="_blank">Recording Link</a> |
 |11/10| IMPES | <a href="https://utexas.zoom.us/rec/share/3mOURleTYwWxfdTYDzl11AENTGOV5xLzyR_tiN4Dd__92aWwpYYW_jq4bYxVgeQ8.fF_w8vet0seuKW-K" target="_blank">Recording Link</a> |
 |11/12| Project 2 in CMG | <a href="https://utexas.zoom.us/rec/share/mlk0vZayrjM9QvcoDmuGHcoCRsksXoN-HVGQtVezOQOExjCtkMeoCIr9Ydh2ZSQq.SvIMKUQ5enWkgNVr" target="_blank">Recording Link</a> |
-|11/17| Advanced Topics | |
+|11/17| Advanced Topics | <a href="https://utexas.zoom.us/rec/share/JP2tU3Jiovot4bfD5fQ6V0465KKmPKqn7Rr1cUBH1NIsEZODt6TLz9XqJnLvQ5uv.zC--5OekOHRmDfph" target="_blank">Recording Link</a> |
 |11/19|  Advanced Topics | |
 |11/24|  Advanced Topics | |
 |11/26| **Thanksgiving** | |
