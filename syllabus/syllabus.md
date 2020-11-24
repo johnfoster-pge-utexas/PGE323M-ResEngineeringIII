@@ -112,7 +112,7 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |11/12| Project 2 in CMG | <a href="https://utexas.zoom.us/rec/share/mlk0vZayrjM9QvcoDmuGHcoCRsksXoN-HVGQtVezOQOExjCtkMeoCIr9Ydh2ZSQq.SvIMKUQ5enWkgNVr" target="_blank">Recording Link</a> |
 |11/17| Advanced Topics | <a href="https://utexas.zoom.us/rec/share/JP2tU3Jiovot4bfD5fQ6V0465KKmPKqn7Rr1cUBH1NIsEZODt6TLz9XqJnLvQ5uv.zC--5OekOHRmDfph" target="_blank">Recording Link</a> |
 |11/19|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/EmDjodXoPzyHrDJAjc7VegEfX_RDhoLiLlTQsoS_JbODN1g18nQ7zdGaeOSZyo0U.tYqg_WJIY_DynB4N" target="_blank">Recording Link</a> |
-|11/24|  Advanced Topics | |
+|11/24|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/LUNINotowEsCXV35AW4c8VshYZFgKTb8Sq98mehUcOjS-dxyngSuTQH7_flmS-hd.adEG32nN0JBSpYjr" target="_blank">Recording Link</a> |
 |11/26| **Thanksgiving** | |
 |12/1| Advanced Topics | |
 |12/3|  Advanced Topics | |
