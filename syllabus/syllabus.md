@@ -114,7 +114,7 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |11/19|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/EmDjodXoPzyHrDJAjc7VegEfX_RDhoLiLlTQsoS_JbODN1g18nQ7zdGaeOSZyo0U.tYqg_WJIY_DynB4N" target="_blank">Recording Link</a> |
 |11/24|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/LUNINotowEsCXV35AW4c8VshYZFgKTb8Sq98mehUcOjS-dxyngSuTQH7_flmS-hd.adEG32nN0JBSpYjr" target="_blank">Recording Link</a> |
 |11/26| **Thanksgiving** | |
-|12/1| Advanced Topics | |
+|12/1| Advanced Topics | <a href="https://utexas.zoom.us/rec/share/Qac8AMyfGDOk7UdO_H-PUjTUcQQ_ySYmfgzV6S7X3lsnpPxW_m6hzmBX6-fW6QDq.I0uu_PQUUt9m6UM_" target="_blank">Recording Link</a> |
 |12/3|  Advanced Topics | |
 
 
