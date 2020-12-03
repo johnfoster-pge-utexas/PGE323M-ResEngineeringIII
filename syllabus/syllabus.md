@@ -115,7 +115,7 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |11/24|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/LUNINotowEsCXV35AW4c8VshYZFgKTb8Sq98mehUcOjS-dxyngSuTQH7_flmS-hd.adEG32nN0JBSpYjr" target="_blank">Recording Link</a> |
 |11/26| **Thanksgiving** | |
 |12/1| Advanced Topics | <a href="https://utexas.zoom.us/rec/share/Qac8AMyfGDOk7UdO_H-PUjTUcQQ_ySYmfgzV6S7X3lsnpPxW_m6hzmBX6-fW6QDq.I0uu_PQUUt9m6UM_" target="_blank">Recording Link</a> |
-|12/3|  Advanced Topics | |
+|12/3|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/p27G-nApoaqgrElK8FJqbEEvRVUgNhwFxHruvCdkpiE21fSJVL53XKl7QRwUp0RP.AgXkjLLIAl5lxk07" target="_blank">Recording Link</a> |
 
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
