@@ -6,7 +6,7 @@ gnureadline==6.3.3
 ipython==2.3.0
 Jinja2>=2.10.1
 Logbook==0.7.0
-lxml==3.4.0
+lxml==4.6.2
 Mako==1.0.0
 Markdown==2.6.2
 MarkupSafe==0.23
