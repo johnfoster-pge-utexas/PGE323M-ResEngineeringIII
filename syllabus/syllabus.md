@@ -10,23 +10,24 @@
 
 
 **Instructor:** John T. Foster, Ph.D.  
-**Office:** PGE 3.108  
+**Office:** POB 5.118
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
 **Class Location:** CPE 3.114  
-**Class Time:** T-Th 11:00 AM - 12:30 PM  
-**Office Hours:** By appointment
+**Class Time:** T-Th 2:00 PM - 3:30 PM  
+**Office Hours:** W 11:00 AM - 12:00 PM Virtual [Zoom
+Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment  
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1289994](https://utexas.instructure.com/courses/128994) 
+**Course Website:** [https://utexas.instructure.com/courses/1312568](https://utexas.instructure.com/courses/1312568)  
 
-**Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">spindletop.pge.utexas.edu</a>
+**Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">spindletop.pge.utexas.edu</a>  
 
-**Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering. 
+**Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering.  
 
 
-**Prerequisites:** Petroleum and Geosystems Engineering 323L
+**Prerequisites:** Petroleum and Geosystems Engineering 323L  
 
 **Book:** Most of the reservoir simulation textbooks are out-dated and/or are geared towards graduate students. There are several books that would make a good reference which are included below.  
 
@@ -57,11 +58,9 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 
 **Grading**
 
- * 10% Codecedemy Python Course Completion
-
  * 20% Lecture Quizes
 
- * 30% Daily assignments
+ * 40% Daily assignments
 
  * 40% Projects
 
@@ -79,43 +78,41 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |72-78| C  |
 |70-72| C-  |
 |60-70| D  |
-|< 60| F  |  
+|< 60| F |  
 
 
 **Outline:** Below is a general outline of what I intend to cover in the course.  This is subject to change based on the needs and preparation of the students in the class.  Any updates will be posted as they occur.  
 
 
-| Date | Description | Recording |
-|-----------------|---------------------|-----------|
-|8/27| Introduction| <a href="https://utexas.zoom.us/rec/share/6ZZnHZX3q2FIUIXsy0H_QIQtEtjuX6a8gyNM-6YJz0pWhSARXvSqGJjs62ddtmf_" target="_blank">Recording Link</a> |
-|9/1| Software tools used in the course | <a href="https://utexas.zoom.us/rec/share/wtVtdu2s-jNIWJXI80LFGaw9E9rFeaa8gCUZrPIEzdpCsnpOJi8XFpygCmAR08w" target="_blank">Recording Link</a> |
-|9/3| Introduction to git and GitHub |<a href="https://utexas.zoom.us/rec/share/OGS6XthpsTnvKeCkYhctzd8k_v-SS6DysU50JDEX2uDBvFmWTapKtjKh5T9NlJDN.1gnfXgENQdx1A-fC" target="_blank">Recording Link</a>|
-|9/8| Introduction to Python and Python functions |<a href="https://utexas.zoom.us/rec/share/d6LchZpjtpzk9ErqwpBiWr6RF7WzsGTkIf4LYzZuRC_j9zzE1xd33IA5EWdaoIHC.U8x8Bqw27NMvqirR" target="_blank">Recording Link</a>|
-|9/10| Python - Data structures, Loops and conditional statements |<a href="https://utexas.zoom.us/rec/share/sLDt38jLkURpiajhGLyprPn-lmrZIMDJDXplrMPQMignbsxKYbyoeDCQax9bsLQM.zXKEJM1FKrDkk0dv" target="_blank">Recording Link</a>|
-|9/15| Python - Object-oriented programming |<a href="https://utexas.zoom.us/rec/share/rMrWWC-OQsvWvM6-JNXb4UbUFUY1jSl8WdtiRbnWazzxWr1NNBT0yCksu0B-j9wt.dkZ7e-xC1HJqnx7S" target="_blank">Recording Link</a>|
-|9/17| Python - Numpy, Scipy, matplotlib |<a href="https://utexas.zoom.us/rec/share/gFs_mJFiIvGqTKXqptqk-V8mHHueeczitE8q4Fv7U3kt3Dh60uCL5q7l3rA4aw29.vdHL9HL7AbsKrk_Q" target="_blank">Recording Link</a>|
-|9/22| Image Nechelik Reservoir |<a href="https://utexas.zoom.us/rec/share/JWtS86AibenehSBwixTY-7n56XG4wB5ixh8hrXYEc-FaIAYEbX55XFGlJI8u7B6U.Cr7Et0Uww7uWdXTr" target="_blank">Recording Link</a>|
-|9/24| Single-Phase Flow Eqns |<a href="https://utexas.zoom.us/rec/share/teN-ABowM111SSCmwUDA52lGAXoJHHtTLlGY5NljRTIRFPfIubrkE3ZnJB6MV1AC.H1YtazdUe2mPNEiN" target="_blank">Recording Link</a>|
-|9/29| Finite Differencing |<a href="https://utexas.zoom.us/rec/share/-4g2GZDE-p51eDVopnjt_mGAmbQ-mcr0hVDdxbW4o9HvAGutJy3wjUbPdIGDDSGD.VlcG0m_RbjdaZlqn" target="_blank">Recording Link</a>|
-|10/1| Explicit and Implicit Method |<a href="https://utexas.zoom.us/rec/share/-dWMWLw1B8OTQkE1D0t9uq3rLpc4IUmPq8ykZ8OV2qI--VFBuRGDPyNN70fmI6gM.szl2G0Fc7ImjzOIY" target="_blank">Recording Link</a>|
-|10/6| Implicit Method and Transmiss |<a href="https://utexas.zoom.us/rec/share/DPSvo9_58OlwHSNW07zomlFHnEK_k4JkIfX6_WZSUJ7q4O6KwDmwGxolNvJNbgZ-.BIYRsJXBn1xmq_Ln" target="_blank">Recording Link</a> |
-|10/8| CMG Tutorial |<a href="https://utexas.zoom.us/rec/share/KiI8p6hMAFZGwxBkXXTD3Z7jIoBRLLivUdqpKVobMmVGjqGgvIxCiiQHzepjT8P8.ng3vEd_B6KwVk3B-" target="_blank">Recording Link</a> |
-|10/13| Crank Nicholson + Control Volume |<a href="https://utexas.zoom.us/rec/share/v0E7kpomot5_TwTs-BeodMylVFzoaQForijHRiquF77k4N1h4EjvbESXQsUUKQGi.mzGsewXx67OI9-rl" target="_blank">Recording Link</a> |
-|10/15| Heterogeneities | <a href="https://utexas.zoom.us/rec/share/eeaZBWJ82efcyIwFNOiwIBfHfrHuFE0NZGXZoEA779FhoUjPZqbFHybb8RAU6SXM.6hp8OwQEPIxoX0cP" target="_blank">Recording Link</a> |
-|10/20| 2D Flow | <a href="https://utexas.zoom.us/rec/share/iFWCmXutBCw0jbJLofqH5x3LkBO2d7IIyJsWnUmQjASd353exdpBxwF_jTJ_tzvN.6ruBYphqtJlOBTi2" target="_blank">Recording Link</a> |
-|10/22| 2D Flow, wells and well models | <a href="https://utexas.zoom.us/rec/share/Uk6AdVdKIP7Adt_pRJ_1d6sV0gSujoVuXectsLTPBuVQxgMY5SxlrsFZAflziMxN.F_7SC7cksgV-O0r5" target="_blank">Recording Link</a> |
-|10/27| Multiphase Flow |  N/A |
-|10/29| Project 1 in CMG | <a href="https://utexas.zoom.us/rec/share/cHg8tcLOGoJUsHKvesQSGStIVcyio87afUEhCiMmDqpBzeNas6tqSBdioQ8d7OrV.iZkuX0BE8zSLM_p6" target="_blank">Recording Link</a> |
-|11/3| Multiphase Flow | <a href="https://utexas.zoom.us/rec/share/xbjDBWCBPWAw2Uh9_U6I-ZF1YcNdNaRtRpp4uEAhcKNeEr0pRVgp-Pp1WIj9YSWr.vEvgiXUY6zxCZ2_i" target="_blank">Recording Link</a> |
-|11/5| Multiphase Flow | <a href="https://utexas.zoom.us/rec/share/h_8cgPLWhjbc8fJqgQghzYYT0RUHUuEJ6evGLRTbQ2wGhMdE7_K7WWy5N37xcFc.gqg_aZiEjvxZ_9F0" target="_blank">Recording Link</a> |
-|11/10| IMPES | <a href="https://utexas.zoom.us/rec/share/3mOURleTYwWxfdTYDzl11AENTGOV5xLzyR_tiN4Dd__92aWwpYYW_jq4bYxVgeQ8.fF_w8vet0seuKW-K" target="_blank">Recording Link</a> |
-|11/12| Project 2 in CMG | <a href="https://utexas.zoom.us/rec/share/mlk0vZayrjM9QvcoDmuGHcoCRsksXoN-HVGQtVezOQOExjCtkMeoCIr9Ydh2ZSQq.SvIMKUQ5enWkgNVr" target="_blank">Recording Link</a> |
-|11/17| Advanced Topics | <a href="https://utexas.zoom.us/rec/share/JP2tU3Jiovot4bfD5fQ6V0465KKmPKqn7Rr1cUBH1NIsEZODt6TLz9XqJnLvQ5uv.zC--5OekOHRmDfph" target="_blank">Recording Link</a> |
-|11/19|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/EmDjodXoPzyHrDJAjc7VegEfX_RDhoLiLlTQsoS_JbODN1g18nQ7zdGaeOSZyo0U.tYqg_WJIY_DynB4N" target="_blank">Recording Link</a> |
-|11/24|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/LUNINotowEsCXV35AW4c8VshYZFgKTb8Sq98mehUcOjS-dxyngSuTQH7_flmS-hd.adEG32nN0JBSpYjr" target="_blank">Recording Link</a> |
-|11/26| **Thanksgiving** | |
-|12/1| Advanced Topics | <a href="https://utexas.zoom.us/rec/share/Qac8AMyfGDOk7UdO_H-PUjTUcQQ_ySYmfgzV6S7X3lsnpPxW_m6hzmBX6-fW6QDq.I0uu_PQUUt9m6UM_" target="_blank">Recording Link</a> |
-|12/3|  Advanced Topics | <a href="https://utexas.zoom.us/rec/share/p27G-nApoaqgrElK8FJqbEEvRVUgNhwFxHruvCdkpiE21fSJVL53XKl7QRwUp0RP.AgXkjLLIAl5lxk07" target="_blank">Recording Link</a> |
-
+| Lecture | Description | Comments |
+|---------|-------------|----------|
+| 1 | Introduction| |
+| 1 | Software tools used in the course | |
+| 2 | Introduction to git and GitHub | |
+| 3 | Introduction to Python and Python functions | |
+| 4 | Python - Data structures, Loops and conditional statements | |
+| 5 | Python - Object-oriented programming | |
+| 6 | Python - Numpy, Scipy, matplotlib | |
+| 7 | Image Nechelik Reservoir | |
+| 8 | Single-Phase Flow Eqns | |
+| 9 | Finite Differencing | |
+|10 | Explicit and Implicit Method | |
+|11 | Implicit Method and Transmissibility | |
+|12 | CMG Tutorial | |
+|13 | Crank Nicholson + Control Volume | |
+|14 | Heterogeneities | |
+|15 | 2D Flow | |
+|16 | 2D Flow, wells and well models | |
+|17 | Multiphase Flow |  |
+|18 | Project 1 in CMG | |
+|19 | Multiphase Flow | |
+|20 | Multiphase Flow | |
+|21 | IMPES | |
+|22 | Project 2 in CMG | |
+|23 | Advanced Topics | |
+|24 |  Advanced Topics | |
+|25 |  Advanced Topics | |
+|26 | Advanced Topics | |
+|27 |  Advanced Topics | |
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
