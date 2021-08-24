@@ -1,5 +1,0 @@
-[submodule "themes/ut-ipython"]
-	path = themes/ut-ipython
-	url = https://github.com/johntfoster/ut-ipython-nikola-theme.git
-[submodule "bar1"]
-	branch = master
