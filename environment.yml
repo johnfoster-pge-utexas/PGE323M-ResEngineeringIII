@@ -4,6 +4,4 @@ channels:
 dependencies:
   - jinja2=2.10.1
   - python=3.7.3
-  - pip:
-    - markdown==2.6.6
-    - nikola==7.7.12
+  - pip=20.3.3
