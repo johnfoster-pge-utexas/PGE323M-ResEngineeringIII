@@ -16,7 +16,7 @@
 
 **Class Location:** CPE 3.114  
 **Class Time:** T-Th 2:00 PM - 3:30 PM  
-**Office Hours:** W 11:00 AM - 12:00 PM Virtual [Zoom
+**Office Hours:** W 12:00 PM - 1:00 PM Virtual [Zoom
 Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment  
 
 
@@ -116,3 +116,6 @@ Additionally, Dr. Balhoff has a manuscript for a textbook he is writing that may
 |27 |  Advanced Topics | |
 
 **Disability Statement:** The University of Austin provides upon request appropriate academic accommodations for qualified students with disabilities. For more information, contact the Office of the Dean of Students at 512-471-6259 or see <a href="https://www.utexas.edu/diversity/ddce/ssd/" target="_blank">https://www.utexas.edu/diversity/ddce/ssd/</a> for more information.
+
+**Title IX**: <a href="https://titleix.utexas.edu/"
+target="_blank">https://titleix.utexas.edu/</a>.
