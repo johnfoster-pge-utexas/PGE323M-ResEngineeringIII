@@ -10,17 +10,17 @@
 
 
 **Instructor:** John T. Foster, Ph.D.  
-**Office:** POB 5.118
+**Office:** POB 5.118  
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 3.114  
-**Class Time:** T-Th 2:00 PM - 3:30 PM  
-**Office Hours:** W 12:00 PM - 1:00 PM Virtual [Zoom
+**Class Location:** GLT 1.102  
+**Class Time:** T-Th 12:30 PM - 2:00 PM  
+**Office Hours:** W 11:00 AM - 12:00 PM Virtual [Zoom
 Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment  
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1312568](https://utexas.instructure.com/courses/1312568)  
+**Course Website:** [https://utexas.instructure.com/courses/1340356](https://utexas.instructure.com/courses/1340356)  
 
 **Course Development Environment:** <a href="https://spindletop.pge.utexas.edu" target="_blank">spindletop.pge.utexas.edu</a>  
 
