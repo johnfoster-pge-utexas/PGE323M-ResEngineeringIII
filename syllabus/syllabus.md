@@ -16,8 +16,8 @@
 
 **Class Location:** GLT 1.102  
 **Class Time:** T-Th 12:30 PM - 2:00 PM  
-**Office Hours:** W 11:00 AM - 12:00 PM Virtual [Zoom
-Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment  
+**Office Hours:** W 10:00 AM - 10:00 PM Virtual [Zoom
+Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment ([scheduling link](https://johnfoster.pge.utexas.edu/calendar/))  
 
 
 **Course Website:** [https://utexas.instructure.com/courses/1340356](https://utexas.instructure.com/courses/1340356)  
