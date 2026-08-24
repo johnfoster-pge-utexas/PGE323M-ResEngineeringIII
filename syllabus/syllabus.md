@@ -14,13 +14,12 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 3.144  
-**Class Time:** T-Th 12:30 PM - 2:00 PM  
-**Office Hours:** W 10:00 AM - 11:00 PM Virtual [Zoom
-Link](https://utexas.zoom.us/my/johntfoster) (password given in class) and by appointment ([scheduling link](https://johnfoster.pge.utexas.edu/calendar/))  
+**Class Location:** CPE 3.159
+**Class Time:** T-Th 9:30 PM - 11:00 PM  
+**Office Hours:** T 11:00 PM - 12:00 PM  by appointment 
 
 
-**Course Website:** [https://utexas.instructure.com/courses/1395281](https://utexas.instructure.com/courses/1395281)  
+**Course Website:** [https://utexas.instructure.com/courses/1458511](https://utexas.instructure.com/courses/1458511)  
 
 
 **Course Description**: Mathematical equations governing fluid flow in reservoirs; numerical methods to solve the equations; numerical reservoir simulation; treatment of wells; history matching; a simulation project performed using a commercial simulator. Restricted to students admitted to major sequence in geosystems engineering and hydrogeology or petroleum engineering.  
