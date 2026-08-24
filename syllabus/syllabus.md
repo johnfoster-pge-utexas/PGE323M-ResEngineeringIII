@@ -14,7 +14,7 @@
 **Phone:** 512-471-6972  
 **Email:** [john.foster@utexas.edu](mailto:john.foster@.utexas.edu)  
 
-**Class Location:** CPE 3.159
+**Class Location:** CPE 3.159  
 **Class Time:** T-Th 9:30 PM - 11:00 PM  
 **Office Hours:** T 11:00 PM - 12:00 PM  by appointment 
 
